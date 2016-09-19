@@ -1,0 +1,1 @@
+# Some scripts for reading and analyzing data from the city of Boulder’s open data catalog. The goal is to make the data more accessible and easier for people to get started analyzing it.
