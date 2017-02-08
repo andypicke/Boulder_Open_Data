@@ -1,0 +1,540 @@
+<metadata><idinfo><citation><citeinfo><origin>Planning and Development Services Department</origin><pubdate>Unpublished Material</pubdate><pubtime>Unknown</pubtime><title Sync="TRUE">PLAN.LANDUSE_MASTER</title><geoform Sync="TRUE">vector digital data</geoform><pubinfo><publish>City of Boulder Planning and Development Services</publish></pubinfo><onlink Sync="TRUE">Server=sde2; Service=port:5161; Database=giscore; User=plan; Version=SDE.DEFAULT</onlink><ftname Sync="TRUE">PLAN.LANDUSE_MASTER</ftname></citeinfo></citation><descript><abstract>Land Use Designations for the Boulder Valley Comprehensive Plan</abstract><purpose>
+Boulder Valley Comprehensive Plan Map Designations
+
+The BVCP Map provides a sketch plan of the desired land use pattern in the Boulder Valley.  Land use categories include residential, business, industrial, public/semi-public, open space, and park use.  The BVCP Map also shows the location and functional classification of roads.  The following descriptions are meant to be used in interpreting the BVCP Map.
+
+1. Land Use
+
+Residential Land Use and Densities
+Residential land use areas on the Boulder Valley Comprehensive Plan, for the most part, reflect the existing land use pattern or current zoning for an area.  The highest density areas are generally located close to the University of Colorado.  Medium density areas are generally situated near community shopping areas or along some of the major arterials of the city.  Mixed density areas surround the downtown and are located in some areas planned for new development. Lower density areas in the older section of the city consist predominantly of single-family detached structures.  Many of the areas developed in the city and the county over the last twenty years are characterized by a mixture of housing types ranging from single-family detached to cluster and patio homes, townhouses and apartments.  The variety of housing types in the developing areas of the Boulder Valley shall continue to be encouraged during the planning period of the Comprehensive Plan.
+
+Residential densities under the Comprehensive Plan range from very low density (two units or less per acre); low density (two to six units per acre); medium density (six to 14 units per acre); to high density (more than 14 units per acre).  It is assumed that variations of the densities on a small area basis may occur within any particular classification, but an average density will be maintained for that classification.  
+
+Additionally, in older downtown neighborhoods that were developed with single family homes but for a time were zoned for higher densities, a variety of housing types and densities are found within a single block. The city's goal is to preserve current neighborhood character and not exacerbate traffic and parking problems.  Few new housing units will be added. The average density in the downtown neighborhoods designated mixed density is in the medium density range (six to 14 units per acre). The mixed density designation is also applied in some areas planned for new development where the goal is to provide a substantial amount of affordable housing in mixed density neighborhoods that have a variety of housing types and densities.  The density in the mixed density designation in newly developing areas is from six to 18 units per acre.  
+
+The manufactured housing designation is applied to existing mobile home parks.  The intent of the designation is to preserve the affordable housing provided by the existing mobile home parks.
+
+Within certain residential areas, there is also the potential for small neighborhood shopping facilities and related offices and government facilities through special review.  Although the neighborhood market ceased to function in most areas of the city during the late 1960's as supermarkets took over the trade,
+neighborhood markets or other convenience facilities may become more popular in the future.
+
+Mixed use - residential development may be deemed appropriate and will be encouraged in some residential areas. These areas may be designated Mixed Use-Residential.  In these areas, residential character will predominate, although neighborhood scale retail and personal service uses will be allowed. Specific zoning and other regulations will be adopted which define the desired intensity, mix, location and design characteristics of these uses. 
+
+Business Land Use and Intensity
+Within the Boulder Valley there are six categories of business land use, based on the intensity of development and the particular needs of the residents living in each subcommunity.  The five categories are: Regional, Community, General, Transitional, Mixed Use Business and Service Commercial. 
+
+The two major Regional Business areas of the Boulder Valley are the Downtown and the Crossroads Area.  Within these areas are located the major shopping facilities, offices, financial institutions, and government and cultural facilities serving the entire Boulder Valley and abutting communities.  These areas will continue to be refurbished and upgraded and shall remain the dominant focus for major business activities in the region.
+
+A Community Business area is the focal point for commercial activity serving a subcommunity or a collection of neighborhoods.  These are designated to serve the daily convenience shopping and service needs of the local populations, and are generally under 150,000 to 200,000 square feet in area.  Offices within the Community Business areas should be offices designated specifically for residents of the subcommunity.  Where feasible, multiple uses will be encouraged within these centers.
+
+The General Business areas are located, for the most part, at junctions of major arterials of the city where intensive commercial uses have already been allowed.  The plan proposes that these areas continue to be used without expanding the strip character already established.
+The Transitional Business designation is shown along certain major streets of the valley.  These are areas usually zoned for less intensive business uses than in the General Business areas, and they often provide a transition to residential areas.
+
+Mixed use - business development may be deemed appropriate and will be encouraged in some business areas. These areas may be designated Mixed Use-Business.  Business character will predominate, although housing and public uses supporting housing will be encouraged and may be required.  Specific zoning and other regulations will be adopted which define the desired intensity, mix, location and design characteristics of these uses. 
+
+Service Commercial areas provide a wide range of community and regional retail and service uses generally not accommodated in core commercial areas and which generally require automotive access for customer convenience and the servicing of vehicles.				
+Industrial Land Use and Intensity
+The Comprehensive Plan projects five classifications of industrial use within the Boulder Valley: General, Community, Light, Performance and Mixed Use Industrial.
+
+The General Industrial classification is shown where the more intensive and heavy industries are located or planned within the valley. 
+
+The Community Industrial classification is shown for those areas where the predominant uses provide a direct service to the planning area.  These uses often have ancillary commercial activity and are essential to the life of the Boulder community.  These uses include smaller scale auto-related uses, small printing operations, building contractors, building supply warehouses, small manufacturing operations and similar uses.
+
+The industrial uses considered as "Light" and "Performance" Industrial on the Comprehensive Plan are primarily research and development, light manufacturing, large scale printing and publishing, electronics, or other intensive employment uses.  These uses are concentrated primarily in "industrial parks" located within the Gunbarrel Hill area along the Longmont Diagonal, and along Arapahoe Avenue between 33rd and 55th streets.  Performance Industrial uses require high-quality site plans and must meet performance criteria for how on-site and off-site impacts are handled.
+
+Mixed use-industrial development may be deemed appropriate and will be encouraged in some industrial areas through the process of Major Site Review, subcommunity planning, or area planning. Industrial uses will predominate. Housing compatible with and appropriate to the industrial character will be encouraged and may be required. Neighborhood retail and service uses may be allowed.  Specific zoning and other regulations will be adopted which define the desired intensity, mix, location and design characteristics of these uses.
+
+Public/Semi-Public Land Use Designations
+Public/Semi-Public land use designations encompass a wide range of public and private non-profit uses that provide a community service.  This category includes municipal and public utility services such as the municipal airport, water reservoirs, and water and wastewater treatment plants.  Public/Semi-Public also includes: educational facilities, including public and private schools and the university; government offices such as city and county buildings, libraries, and the jail; government laboratories; and non-profit facilities such as cemeteries, churches, hospitals, retirement complexes and may include other uses as allowed by zoning.
+
+Agriculture Land Use Designation
+An Agriculture land use designation identifies land in the Service Area that is planned to remain in agricultural use.  Uses that are auxiliary to agriculture, such as a home, a barn and outbuildings and the incidental sales of farm or horticultural products are expected on land with this designation. Given the urban nature of Boulder, the designation will be used rarely.
+
+Environmental Preservation
+The Environmental Preservation designation includes private lands in Areas I and II with environmental values which the city and county would like to preserve through a variety of preservation methods including but not limited to intergovernmental agreements, dedications, development restrictions, rezonings, acquisitions, and density transfers.
+
+Natural Ecosystem Overlay
+In order to encourage environmental preservation, a Natural Ecosystem overlay is applied over Comprehensive Plan Land Use Designations throughout the Boulder Valley Planning Area. The overlay denotes land with natural resource importance. A Natural Ecosystems overlay will not necessarily preclude development or human use of a particular area, but will serve to identify certain environmental issues in the area.  The overlay will serve to guide the city and the county in decisions about annexations, rezonings, acquisitions, density transfers, development review and other planning processes.   
+
+2. OPEN SPACE AND PARKS
+
+Open Space
+Open Space designations on the BVCP Map include the following three categories of land:
+1. Open Space - Acquired:  Land already acquired by the city or Boulder County for open space purposes;
+2. Open Space - Development Restrictions: Privately owned land with conservation easements or other development restrictions; and
+3. Open Space - Other:  Other public and private land designated prior to 1981 which the city and county would like to preserve through various preservation methods including but not limited to intergovernmental agreements, dedications, or acquisitions.
+
+Open Space designations are not intended to limit acquisition, but to be indicative of the broad goals of the program.  Other property which meets Open Space purposes and functions should be considered and may be acquired.  Open Space designations indicate that the long-term use of the land is planned to serve one or more open space functions.  However, Open Space designations may not reflect the current use of the land while in private ownership.
+
+Urban and Other Parks
+Urban and Other Parks includes public lands used for a variety of active and passive recreational purposes. Urban parks provided by the city include pocket parks, neighborhood parks, community parks and city parks as defined in the Parks and Recreation Master Plan. The specific characteristics of each park depend on the type of park, size, topography and neighborhood preferences.  Neighborhood parks typically provide a children's playground, picnic facilities, benches, walkways, landscaped areas and multi-use open grass areas. Other park uses may include recreational facilities such as basketball or tennis courts, community gardens, and natural areas.  There are three community park sites (Harlow Platts, East Boulder and Foothills) which are fully or partially developed.  Large multi-use city parks are planned for two locations: 1) the Valmont Park site, where development will begin in 2001, and; 2)  the Area III - Planning Reserve site, which will be held to meet future recreational needs. The Boulder Reservoir is a regional park which provides opportunities for fishing, swimming, boating, picnicking, etc. Other public recreational facilities, including city recreation centers, a golf course, swimming pools, ballfields, and the Eldorado Canyon State Park are also included in this category.
+</purpose><supplinf>10-31-03 Updated with minor rectification to parcels in valmont industrial park area
+4-2-04 Updated with land use change of OS-0 to VLR per ordinance 7339.
+6-04 updated with BVCP 03/04 yearly review changes
+10-29-04 Applied map correction to Wonderland Reservoir area removing eronious OS-O designations from residential parcels to the north and south of the open space land west of Broadway
+1-5-05 Changed LI to HR for 1665 Exposition Drive (north side of Arapahoe between 33rd and 38th).
+2-24-05 Corrected open space designaitons on the valmont butte property
+5-16-06 Applied changes from approved 2005 major update to the BVCP.  This is now the 2005 BVCP Land Use dataset.
+6-12-06 Corrected missing TB polygon at N/E corner of 28th and Colorado.  Original mistake identified from transfer to digital from analog before 1997.
+6-22-06 Added changes from Gunbarrel Area Plan.  Approved 6-21-06 by Boulder County Planning Commission.  These changes are from the 30/04 BVCP plan.
+8-31-07 added changes to 6450 Gunpark Dr.
+10-9-08 modified Washington School site to reflect the HR/LR change to the PUB category.
+3-24-2009 Applied changes from final 2008 mid term review and all annexations since last update to the dataset including but not limited to 2020 Upland / 4240 19th Annexation.
+May 2009 - corrected alignment issues in north west part of town near Dakota Ridge and Foothills Park as well as Holiday
+April 2010 - corrected the MUB line north of Yarmoth and east of Broadway.  Moved line north to include parcel on n/e corner  and part of the enclave parcel just to the east.  This is a map correction and not a land use change.
+October 2010 - modified TVAP/Boulder Junction land use changes approved in August</supplinf><langdata Sync="TRUE">en</langdata></descript><timeperd><timeinfo><sngdate><caldate>6-4-04</caldate></sngdate></timeinfo><current>Land Use Per 2003 BVCP Update</current></timeperd><status><progress>Complete</progress><update>At next BVCP anual update</update></status><spdom><bounding><westbc Sync="TRUE">-105.332755</westbc><eastbc Sync="TRUE">-105.107167</eastbc><northbc Sync="TRUE">40.120363</northbc><southbc Sync="TRUE">39.903670</southbc></bounding><lboundng><leftbc Sync="TRUE">3046920.177000</leftbc><rightbc Sync="TRUE">3109859.750000</rightbc><bottombc Sync="TRUE">1207999.000000</bottombc><topbc Sync="TRUE">1286736.500000</topbc></lboundng></spdom><keywords><theme><themekt>REQUIRED: Reference to a formally registered thesaurus or a similar authoritative source of theme keywords.</themekt><themekey>Land Use</themekey><themekey>BVCP</themekey><themekey>society</themekey><themekey>boundaries</themekey></theme></keywords><accconst>Read only to all</accconst><useconst>Graphical Representation Only</useconst><ptcontac><cntinfo><cntorgp><cntorg>City of Boulder - Plannign and Development Services</cntorg><cntper>Planning Data Steward</cntper></cntorgp><cntpos>Planning Data Steward</cntpos></cntinfo></ptcontac><native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3500</native><natvform Sync="TRUE">SDE Feature Class</natvform></idinfo><dataqual><lineage><procstep><procdesc>Dataset copied.</procdesc><srcused>Server=liz; Service=port:5161; User=plan; Version=SDE.DEFAULT</srcused></procstep><procstep><procdesc>Dataset copied.</procdesc><srcused>Server=liz; Service=port:5151; Database=gisprod; User=planuser; Version=SDE.DEFAULT</srcused></procstep><procstep><procdesc>Dataset copied.</procdesc><srcused>Server=liz; Service=port:5161; User=plan; Version=SDE.DEFAULT</srcused></procstep><procstep><procdesc>Dataset copied.</procdesc><srcused>Server=liz; Service=port:5161; User=plan; Version=SDE.DEFAULT</srcused></procstep><procstep><procdesc>Dataset copied.</procdesc><srcused>Server=liz; Service=port:5151; Database=gisprod; User=planuser; Version=SDE.DEFAULT</srcused></procstep><procstep><procdesc>Dataset copied.</procdesc><srcused>Server=liz; Service=port:5161; User=plan; Version=SDE.DEFAULT</srcused></procstep><procstep><procdesc>Dataset copied.</procdesc><srcused>Server=liz; Service=port:5151; User=plan; Version=SDE.DEFAULT</srcused></procstep><procstep><procdesc>Dataset copied.</procdesc><srcused>Server=liz; Service=port:5161; User=plan; Version=SDE.DEFAULT</srcused></procstep><procstep><procdesc>Metadata imported.</procdesc><srcused>C:\DOCUME~1\metrs1\LOCALS~1\Temp\xml5B.tmp</srcused></procstep><procstep><procdesc>Metadata imported.</procdesc><srcused>C:\DOCUME~1\metrs1\LOCALS~1\Temp\xml60.tmp</srcused></procstep><procstep><procdesc>Metadata imported.</procdesc><srcused>C:\DOCUME~1\metrs1\LOCALS~1\Temp\xml68.tmp</srcused></procstep><procstep><procdesc>Metadata imported.</procdesc><srcused>C:\DOCUME~1\metrs1\LOCALS~1\Temp\xml6A.tmp</srcused></procstep><procstep><procdesc>Dataset copied.</procdesc><srcused>Server=sde1; Service=port:5151; User=gis; Version=SDE.DEFAULT</srcused></procstep><procstep><procdesc>Dataset copied.</procdesc><srcused>Server=sde2; Service=port:5161; User=plan; Version=SDE.DEFAULT</srcused></procstep><procstep><procdesc>Dataset copied.</procdesc><srcused>Server=sde1; Service=port:5151; User=gis; Version=SDE.DEFAULT</srcused></procstep><procstep><procdesc>Dataset copied.</procdesc><srcused>Server=sde2; Service=port:5161; User=plan; Version=SDE.DEFAULT</srcused></procstep><procstep><procdesc>Dataset copied.</procdesc><srcused>Server=sde2; Service=port:5161; User=plan; Version=SDE.DEFAULT</srcused></procstep><procstep><procdesc>Dataset copied.</procdesc><srcused>Server=sde1; Service=port:5151; User=gis; Version=SDE.DEFAULT</srcused></procstep><procstep><procdesc>Dataset copied.</procdesc><srcused>Server=sde2; Service=port:5161; User=plan; Version=SDE.DEFAULT</srcused></procstep><procstep><procdesc>Dataset copied.</procdesc><srcused>Server=sde1; Service=port:5151; User=plan; Version=SDE.DEFAULT</srcused></procstep><procstep><procdesc>Dataset copied.</procdesc><srcused>Server=sde2; Service=port:5161; User=plan; Version=SDE.DEFAULT</srcused></procstep><procstep><procdesc>Dataset copied.</procdesc><srcused>Server=sde1; Service=port:5151; User=gis; Version=SDE.DEFAULT</srcused><procdate>20081009</procdate><proctime>08070400</proctime></procstep><procstep><procdesc>Dataset copied.</procdesc><srcused>Server=sde2; Service=port:5161; Database=giscore; User=plan; Version=SDE.DEFAULT</srcused><procdate>20081009</procdate><proctime>09090700</proctime></procstep><procstep><procdesc>Dataset copied.</procdesc><srcused>Server=sde1; Service=port:5151; User=gis; Version=SDE.DEFAULT</srcused><procdate>20090316</procdate><proctime>13082800</proctime></procstep><procstep><procdesc>Dataset copied.</procdesc><srcused>\\gisrepnt\datalink\Gisdata\Planning\BVCP\BVCP_2008_UPDATE.mdb</srcused><procdate>20090326</procdate><proctime>07183300</proctime></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DOCUME~1\metrs1\LOCALS~1\Temp\xmlF8.tmp</srcused><procdate Sync="TRUE">20090513</procdate><proctime Sync="TRUE">11071800</proctime></procstep></lineage></dataqual><spdoinfo><direct Sync="TRUE">Vector</direct><ptvctinf><esriterm Name="Landuse"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom code="4" Sync="TRUE"></efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">0</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf></spdoinfo><spref><horizsys><planar><planci><plance Sync="TRUE">coordinate pair</plance><coordrep><absres Sync="TRUE">0.000250</absres><ordres Sync="TRUE">0.000250</ordres></coordrep><plandu Sync="TRUE">survey feet</plandu></planci></planar><geodetic><horizdn Sync="TRUE">D_North_American_1983_HARN</horizdn><ellips Sync="TRUE">Geodetic Reference System 80</ellips><semiaxis Sync="TRUE">6378137.000000</semiaxis><denflat Sync="TRUE">298.257222</denflat></geodetic><cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983_HARN</geogcsn><projcsn Sync="TRUE">NAD_1983_HARN_StatePlane_Colorado_North_FIPS_0501</projcsn></cordsysn></horizsys><vertdef><altsys><altres Sync="TRUE">1.000000</altres><altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc></altsys></vertdef></spref><eainfo><detailed Name="Landuse"><enttyp><enttypl Sync="TRUE">Landuse</enttypl><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">0</enttypc></enttyp><attr><attrlabl>SHAPE</attrlabl><attrdef>Feature geometry.</attrdef><attrdefs>ESRI</attrdefs><attrdomv><udom>Coordinates defining the features.</udom></attrdomv><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl>LANDUSE</attrlabl><attrdef>See the description under "purpose"</attrdef><attalias Sync="TRUE">LANDUSE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl>LANDUSENAM</attrlabl><attrdef>Same as "landuse" but spelled out as full words</attrdef><attalias Sync="TRUE">LANDUSENAM</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl>SHAPE</attrlabl><attrdef>Feature geometry.</attrdef><attrdefs>ESRI</attrdefs><attrdomv><udom>Coordinates defining the features.</udom></attrdomv><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">SHAPE_AREA</attrlabl><attalias Sync="TRUE">SHAPE_AREA</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef><attrdefs Sync="TRUE">Esri</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">SHAPE_LEN</attrlabl><attalias Sync="TRUE">SHAPE_LEN</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr></detailed></eainfo><distinfo><resdesc>Downloadable Data</resdesc></distinfo><metainfo><metd Sync="TRUE">20101028</metd><metc><cntinfo><cntorgp><cntorg>REQUIRED: The organization responsible for the metadata information.</cntorg><cntper>REQUIRED: The person responsible for the metadata information.</cntper></cntorgp><cntaddr><addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype><city>REQUIRED: The city of the address.</city><state>REQUIRED: The state or province of the address.</state><postal>REQUIRED: The ZIP or other postal code of the address.</postal></cntaddr><cntvoice>REQUIRED: The telephone number by which individuals can speak to the organization or individual.</cntvoice></cntinfo></metc><metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn><metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv><mettc Sync="TRUE">local time</mettc><metextns><onlink>http://www.esri.com/metadata/esriprof80.html</onlink><metprof>ESRI Metadata Profile</metprof></metextns><metextns><onlink>http://www.esri.com/metadata/esriprof80.html</onlink><metprof>ESRI Metadata Profile</metprof></metextns><metextns><onlink>http://www.esri.com/metadata/esriprof80.html</onlink><metprof>ESRI Metadata Profile</metprof></metextns><metextns><onlink>http://www.esri.com/metadata/esriprof80.html</onlink><metprof>ESRI Metadata Profile</metprof></metextns><metextns><onlink>http://www.esri.com/metadata/esriprof80.html</onlink><metprof>ESRI Metadata Profile</metprof></metextns><langmeta Sync="TRUE">en</langmeta></metainfo><Esri><CreaDate>20140117</CreaDate><CreaTime>07063400</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20160915</SyncDate><SyncTime>02444700</SyncTime><ModDate>20160915</ModDate><ModTime>02444700</ModTime><DataProperties><itemProps><itemName Sync="TRUE">Landuse</itemName><nativeExtBox><westBL Sync="TRUE">3046920.177000</westBL><eastBL Sync="TRUE">3109859.538000</eastBL><southBL Sync="TRUE">1207999.000000</southBL><northBL Sync="TRUE">1286736.500000</northBL><exTypeCode Sync="TRUE">1</exTypeCode></nativeExtBox><itemLocation><linkage Sync="TRUE">file://\\boulder.local\share\GIS\Share\OpenData\Landuse.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation><imsContentType Sync="TRUE">002</imsContentType><itemSize Sync="TRUE">0.000</itemSize></itemProps><coordRef><type Sync="TRUE">Projected</type><geogcsn Sync="TRUE">GCS_North_American_1983_HARN</geogcsn><csUnits Sync="TRUE">Linear Unit: Foot_US (0.304801)</csUnits><projcsn Sync="TRUE">NAD_1983_HARN_StatePlane_Colorado_North_FIPS_0501</projcsn><peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.3'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_HARN_StatePlane_Colorado_North_FIPS_0501&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983_HARN&amp;quot;,DATUM[&amp;quot;D_North_American_1983_HARN&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Lambert_Conformal_Conic&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,3000000.000316083],PARAMETER[&amp;quot;False_Northing&amp;quot;,999999.999996],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-105.5],PARAMETER[&amp;quot;Standard_Parallel_1&amp;quot;,39.71666666666667],PARAMETER[&amp;quot;Standard_Parallel_2&amp;quot;,40.78333333333333],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,39.33333333333334],UNIT[&amp;quot;Foot_US&amp;quot;,0.3048006096012192]]&lt;/WKT&gt;&lt;XOrigin&gt;-118265500&lt;/XOrigin&gt;&lt;YOrigin&gt;-95180100&lt;/YOrigin&gt;&lt;XYScale&gt;37138342.128391795&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.0032808333333333331&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml></coordRef><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.3\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureClassToFeatureClass" Date="20160915" Time="024454">FeatureClassToFeatureClass Landuse.lyr \\boulder.local\share\GIS\Share\OpenData Landuse.shp # "LANDUSE "LANDUSE" true true false 254 Text 0 0 ,First,#,Landuse.lyr,LANDUSE,-1,-1;LANDUSENAM "LANDUSENAM" true true false 50 Text 0 0 ,First,#,Landuse.lyr,LANDUSENAM,-1,-1;SHAPE_AREA "SHAPE_AREA" false true true 0 Double 0 0 ,First,#,Landuse.lyr,SHAPE.AREA,-1,-1;SHAPE_LEN "SHAPE_LEN" false true true 0 Double 0 0 ,First,#,Landuse.lyr,SHAPE.LEN,-1,-1" #</Process></lineage></DataProperties><ArcGISFormat>1.0</ArcGISFormat><ArcGISProfile>FGDC</ArcGISProfile></Esri><mdLang><languageCode value="eng"/><countryCode value="USA" Sync="TRUE"/></mdLang><mdHrLv><ScopeCd value="005"/></mdHrLv><mdStanName>ArcGIS Metadata</mdStanName><mdStanVer>1.0</mdStanVer><distInfo><distFormat><formatName Sync="TRUE">Shapefile</formatName></distFormat><distTranOps><transSize Sync="TRUE">0.000</transSize></distTranOps></distInfo><dataIdInfo><idCitation><date><pubDate date="inapplicable" time="unknown"/></date><citRespParty><rpOrgName>City of Boulder Planning and Development Services</rpOrgName><role><RoleCd value="010"/></role></citRespParty><citRespParty><rpOrgName>Planning and Development Services Department</rpOrgName><role><RoleCd value="006"/></role></citRespParty><resTitle Sync="TRUE">Landuse</resTitle><presForm><PresFormCd value="005" Sync="TRUE"/></presForm></idCitation><idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Land Use Designations for the Boulder Valley Comprehensive Plan&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs><idPurp>Boulder Valley Comprehensive Plan Map Designations The BVCP Map provides a sketch plan of the desired land use pattern in the Boulder Valley. Land use categories include residential, business, industrial, public/semi-public, open space, and park use. The BVCP Map also shows the location and functional classification of roads. The following descriptions are meant to be used in interpreting the BVCP Map. 1. Land Use Residential Land Use and Densities Residential land use areas on the Boulder Valley Comprehensive Plan, for the most part, reflect the existing land use pattern or current zoning for an area. The highest density areas are generally located close to the University of Colorado. Medium density areas are generally situated near community shopping areas or along some of the major arterials of the city. Mixed density areas surround the downtown and are located in some areas planned for new development. Lower density areas in the older section of the city consist predominantly of single-family detached structures. Many of the areas developed in the city and the county over the last twenty years are characterized by a mixture of housing types ranging from single-family detached to cluster and patio homes, townhouses and apartments. The variety of housing types in the developing areas of the Boulder Valley shall continue to be encouraged during the planning period of the Comprehensive Plan. Residential densities under the Comprehensive Plan range from very low density (two units or less per acre); low density (two to six units per acre); medium density (six to 14 units per acre); to high density (more than 14 units per acre). It is assumed that variations of the densities on a small area basis may occur within any particular classification, but an average density will be maintained for that classification. Additionally, in older downtown neighborhoods that were developed with single family homes but for a time were zoned for higher densities, a variety of housing types and densities are found within a single block. The city's goal is to preserve current neighborhood character and not exacerbate traffic and parking problems. Few new housing units will be added. The average density in the downtown neighborhoods designated mixed density is in the medium density range (six to 14 units per acre). The mixed density designation is also applied in some areas planned for new development where the goal is to provide a substantial amount of affordable housing in mixed density neighborhoods that have a variety of housing types and densities. The density in the mixed density designation in newly developing areas is from six to 18 units per acre. The manufactured housing designation is applied to existing mobile home parks. The intent of the designation is to preserve the affordable housing provided by the existing mobile home parks. Within certain residential areas, there is also the potential for small neighborhood shopping facilities and related offices and government facilities through special review. Although the neighborhood market ceased to function in most areas of the city during the late 1960's as supermarkets took over the trade, neighborhood markets or other convenience facilities may become more popular in the future. Mixed use - residential development may be deemed appropriate and will be encouraged in some residential areas. These areas may be designated Mixed Use-Residential. In these areas, residential character will predominate, although neighborhood scale retail and personal service uses will be allowed. Specific zoning and other regulations will be adopted which define the desired intensity, mix, location and design characteristics of these uses. Business Land Use and Intensity Within the Boulder Valley there are six categories of business land use, based on the intensity of development and the particular needs of the residents living in each subcommunity. The five categories are: Regional, Community, General, Transitional, Mixed Use Business and Service Commercial. The two major Regional Business areas of the Boulder Valley are the Downtown and the Crossroads Area. Within these areas are located the major shopping facilities, offices, financial institutions, and government and cultural facilities serving the entire Boulder Valley and abutting communities. These areas will continue to be refurbished and upgraded and shall remain the dominant focus for major business activities in the region. A Community Business area is the focal point for commercial activity serving a subcommunity or a collection of neighborhoods. These are designated to serve the daily convenience shopping and service needs of the local populations, and are generally under 150,000 to 200,000 square feet in area. Offices within the Community Business areas should be offices designated specifically for residents of the subcommunity. Where feasible, multiple uses will be encouraged within these centers. The General Business areas are located, for the most part, at junctions of major arterials of the city where intensive commercial uses have already been allowed. The plan proposes that these areas continue to be used without expanding the strip character already established. The Transitional Business designation is shown along certain major streets of the valley. These are areas usually zoned for less intensive business uses than in the General Business areas, and they often provide a transition to residential areas. Mixed use - business development may be deemed appropriate and will be encouraged in some business areas. These areas may be designated Mixed Use-Business. Business character will predominate, although housing and public uses supporting housing will be encouraged and may be required. Specific zoning and other regulations will be adopted which define the desired intensity, mix, location and design characteristics of these uses. Service Commercial areas provide a wide range of community and regional retail and service uses generally not accommodated in core commercial areas and which generally require automotive access for customer convenience and the servicing of vehicles. Industrial Land Use and Intensity The Comprehensive Plan projects five classifications of industrial use within the Boulder Valley: General, Community, Light, Performance and Mixed Use Industrial. The General Industrial classification is shown where the more intensive and heavy industries are located or planned within the valley. The Community Industrial classification is shown for those areas where the predominant uses provide a direct service to the planning area. These uses often have ancillary commercial activity and are essential to the life of the Boulder community. These uses include smaller scale auto-related uses, small printing operations, building contractors, building supply warehouses, small manufacturing operations and similar uses. The industrial uses considered as "Light" and "Performance" Industrial on the Comprehensive Plan are primarily research and development, light manufacturing, large scale printing and publishing, electronics, or other intensive employment uses. These uses are concentrated primarily in "industrial parks" located within the Gunbarrel Hill area along the Longmont Diagonal, and along Arapahoe Avenue between 33rd and 55th streets. Performance Industrial uses require high-quality site plans and must meet performance criteria for how on-site and off-site impacts are handled. Mixed use-industrial development may be deemed appropriate and will be encouraged in some industrial areas through the process of Major Site Review, subcommunity planning, or area planning. Industrial uses will predominate. Housing compatible with and appropriate to the industrial character will be encouraged and may be required. Neighborhood retail and service uses may be allowed. Specific zoning and other regulations will be adopted which define the desired intensity, mix, location and design characteristics of these uses. Public/Semi-Public Land Use Designations Public/Semi-Public land use designations encompass a wide range of public and private non-profit uses that provide a community service. This category includes municipal and public utility services such as the municipal airport, water reservoirs, and water and wastewater treatment plants. Public/Semi-Public also includes: educational facilities, including public and private schools and the university; government offices such as city and county buildings, libraries, and the jail; government laboratories; and non-profit facilities such as cemeteries, churches, hospitals, retirement complexes and may include other uses as allowed by zoning. Agriculture Land Use Designation An Agriculture land use designation identifies land in the Service Area that is planned to remain in agricultural use. Uses that are auxiliary to agriculture, such as a home, a barn and outbuildings and the incidental sales of farm or horticultural products are expected on land with this designation. Given the urban nature of Boulder, the designation will be used rarely. Environmental Preservation The Environmental Preservation designation includes private lands in Areas I and II with environmental values which the city and county would like to preserve through a variety of preservation methods including but not limited to intergovernmental agreements, dedications, development restrictions, rezonings, acquisitions, and density transfers. Natural Ecosystem Overlay In order to encourage environmental preservation, a Natural Ecosystem overlay is applied over Comprehensive Plan Land Use Designations throughout the Boulder Valley Planning Area. The overlay denotes land with natural resource importance. A Natural Ecosystems overlay will not necessarily preclude development or human use of a particular area, but will serve to identify certain environmental issues in the area. The overlay will serve to guide the city and the county in decisions about annexations, rezonings, acquisitions, density transfers, development review and other planning processes. 2. OPEN SPACE AND PARKS Open Space Open Space designations on the BVCP Map include the following three categories of land: 1. Open Space - Acquired: Land already acquired by the city or Boulder County for open space purposes; 2. Open Space - Development Restrictions: Privately owned land with conservation easements or other development restrictions; and 3. Open Space - Other: Other public and private land designated prior to 1981 which the city and county would like to preserve through various preservation methods including but not limited to intergovernmental agreements, dedications, or acquisitions. Open Space designations are not intended to limit acquisition, but to be indicative of the broad goals of the program. Other property which meets Open Space purposes and functions should be considered and may be acquired. Open Space designations indicate that the long-term use of the land is planned to serve one or more open space functions. However, Open Space designations may not reflect the current use of the land while in private ownership. Urban and Other Parks Urban and Other Parks includes public lands used for a variety of active and passive recreational purposes. Urban parks provided by the city include pocket parks, neighborhood parks, community parks and city parks as defined in the Parks and Recreation Master Plan. The specific characteristics of each park depend on the type of park, size, topography and neighborhood preferences. Neighborhood parks typically provide a children's playground, picnic facilities, benches, walkways, landscaped areas and multi-use open grass areas. Other park uses may include recreational facilities such as basketball or tennis courts, community gardens, and natural areas. There are three community park sites (Harlow Platts, East Boulder and Foothills) which are fully or partially developed. Large multi-use city parks are planned for two locations: 1) the Valmont Park site, where development will begin in 2001, and; 2) the Area III - Planning Reserve site, which will be held to meet future recreational needs. The Boulder Reservoir is a regional park which provides opportunities for fishing, swimming, boating, picnicking, etc. Other public recreational facilities, including city recreation centers, a golf course, swimming pools, ballfields, and the Eldorado Canyon State Park are also included in this category.</idPurp><idStatus><ProgCd value="001"/></idStatus><idPoC><rpIndName>Planning Data Steward</rpIndName><rpOrgName>City of Boulder - Plannign and Development Services</rpOrgName><rpPosName>Planning Data Steward</rpPosName><role><RoleCd value="007"/></role></idPoC><themeKeys><keyword>society</keyword><keyword>Land Use</keyword><keyword>BVCP</keyword><keyword>boundaries</keyword></themeKeys><searchKeys><keyword>society</keyword><keyword>Land Use</keyword><keyword>BVCP</keyword><keyword>boundaries</keyword></searchKeys><resConst><LegConsts><othConsts>Read only to all</othConsts></LegConsts></resConst><resConst><Consts><useLimit>Graphical Representation Only</useLimit></Consts></resConst><dataLang><languageCode value="eng"/><countryCode value="USA" Sync="TRUE"/></dataLang><dataExt><exDesc>Land Use Per 2003 BVCP Update</exDesc></dataExt><suppInfo>10-31-03 Updated with minor rectification to parcels in valmont industrial park area 
+4-2-04 Updated with land use change of OS-0 to VLR per ordinance 7339. 6-04 
+updated with BVCP 03/04 yearly review changes 
+10-29-04 Applied map correction to Wonderland Reservoir area removing eronious OS-O designations from residential parcels to the north and south of the open space land west of Broadway 
+1-5-05 Changed LI to HR for 1665 Exposition Drive (north side of Arapahoe between 33rd and 38th).
+2-24-05 Corrected open space designaitons on the valmont butte property 
+5-16-06 Applied changes from approved 2005 major update to the BVCP. This is now the 2005 BVCP Land Use dataset. 
+6-12-06 Corrected missing TB polygon at N/E corner of 28th and Colorado. Original mistake identified from transfer to digital from analog before 1997. 
+6-22-06 Added changes from Gunbarrel Area Plan. Approved 6-21-06 by Boulder County Planning Commission. These changes are from the 30/04 BVCP plan. 
+8-31-07 added changes to 6450 Gunpark Dr. 
+10-9-08 modified Washington School site to reflect the HR/LR change to the PUB category. 
+3-24-2009 Applied changes from final 2008 mid term review and all annexations since last update to the dataset including but not limited to 2020 Upland / 4240 19th Annexation. 
+May 2009 - corrected alignment issues in north west part of town near Dakota Ridge and Foothills Park as well as Holiday 
+April 2010 - corrected the MUB line north of Yarmoth and east of Broadway. Moved line north to include parcel on n/e corner and part of the enclave parcel just to the east. This is a map correction and not a land use change. 
+October 2010 - modified TVAP/Boulder Junction land use changes approved in August
+</suppInfo><envirDesc Sync="TRUE">Microsoft Windows Server 2008 R2 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.3.1.4959</envirDesc><spatRpType><SpatRepTypCd value="001" Sync="TRUE"/></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="search"><exTypeCode Sync="TRUE">1</exTypeCode><westBL Sync="TRUE">-105.332755</westBL><eastBL Sync="TRUE">-105.107168</eastBL><northBL Sync="TRUE">40.120363</northBL><southBL Sync="TRUE">39.903670</southBL></GeoBndBox></geoEle></dataExt><dataChar><CharSetCd value="004"/></dataChar><resMaint xmlns=""><maintFreq><MaintFreqCd value="009"/></maintFreq></resMaint><tpCat><TopicCatCd value="016"/></tpCat><tpCat><TopicCatCd value="003"/></tpCat></dataIdInfo><dqInfo><dqScope><scpLvl><ScopeCd value="005"/></scpLvl></dqScope></dqInfo><Binary><Enclosure><Descript>original metadata</Descript><Data SourceMetadata="yes" OriginalFileName="source_metadata.xml" SourceMetadataDigest="d2b7458605b9c2b18df143bbc951fc" EsriPropertyType="Base64" SourceMetadataSchema="fgdc">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxtZXRhZGF0YT4NCiAgPGlk
+aW5mbz4NCiAgICA8Y2l0YXRpb24+DQogICAgICA8Y2l0ZWluZm8+DQogICAgICAgIDxvcmlnaW4+
+UGxhbm5pbmcgYW5kIERldmVsb3BtZW50IFNlcnZpY2VzIERlcGFydG1lbnQ8L29yaWdpbj4NCiAg
+ICAgICAgPHB1YmRhdGU+VW5wdWJsaXNoZWQgTWF0ZXJpYWw8L3B1YmRhdGU+DQogICAgICAgIDxw
+dWJ0aW1lPlVua25vd248L3B1YnRpbWU+DQogICAgICAgIDxwdWJpbmZvPg0KICAgICAgICAgIDxw
+dWJsaXNoPkNpdHkgb2YgQm91bGRlciBQbGFubmluZyBhbmQgRGV2ZWxvcG1lbnQgU2VydmljZXM8
+L3B1Ymxpc2g+DQogICAgICAgIDwvcHViaW5mbz4NCiAgICAgIDwvY2l0ZWluZm8+DQogICAgPC9j
+aXRhdGlvbj4NCiAgICA8ZGVzY3JpcHQ+DQogICAgICA8YWJzdHJhY3Q+TGFuZCBVc2UgRGVzaWdu
+YXRpb25zIGZvciB0aGUgQm91bGRlciBWYWxsZXkgQ29tcHJlaGVuc2l2ZSBQbGFuPC9hYnN0cmFj
+dD4NCiAgICAgIDxwdXJwb3NlPg0KQm91bGRlciBWYWxsZXkgQ29tcHJlaGVuc2l2ZSBQbGFuIE1h
+cCBEZXNpZ25hdGlvbnMNCg0KVGhlIEJWQ1AgTWFwIHByb3ZpZGVzIGEgc2tldGNoIHBsYW4gb2Yg
+dGhlIGRlc2lyZWQgbGFuZCB1c2UgcGF0dGVybiBpbiB0aGUgQm91bGRlciBWYWxsZXkuICBMYW5k
+IHVzZSBjYXRlZ29yaWVzIGluY2x1ZGUgcmVzaWRlbnRpYWwsIGJ1c2luZXNzLCBpbmR1c3RyaWFs
+LCBwdWJsaWMvc2VtaS1wdWJsaWMsIG9wZW4gc3BhY2UsIGFuZCBwYXJrIHVzZS4gIFRoZSBCVkNQ
+IE1hcCBhbHNvIHNob3dzIHRoZSBsb2NhdGlvbiBhbmQgZnVuY3Rpb25hbCBjbGFzc2lmaWNhdGlv
+biBvZiByb2Fkcy4gIFRoZSBmb2xsb3dpbmcgZGVzY3JpcHRpb25zIGFyZSBtZWFudCB0byBiZSB1
+c2VkIGluIGludGVycHJldGluZyB0aGUgQlZDUCBNYXAuDQoNCjEuIExhbmQgVXNlDQoNClJlc2lk
+ZW50aWFsIExhbmQgVXNlIGFuZCBEZW5zaXRpZXMNClJlc2lkZW50aWFsIGxhbmQgdXNlIGFyZWFz
+IG9uIHRoZSBCb3VsZGVyIFZhbGxleSBDb21wcmVoZW5zaXZlIFBsYW4sIGZvciB0aGUgbW9zdCBw
+YXJ0LCByZWZsZWN0IHRoZSBleGlzdGluZyBsYW5kIHVzZSBwYXR0ZXJuIG9yIGN1cnJlbnQgem9u
+aW5nIGZvciBhbiBhcmVhLiAgVGhlIGhpZ2hlc3QgZGVuc2l0eSBhcmVhcyBhcmUgZ2VuZXJhbGx5
+IGxvY2F0ZWQgY2xvc2UgdG8gdGhlIFVuaXZlcnNpdHkgb2YgQ29sb3JhZG8uICBNZWRpdW0gZGVu
+c2l0eSBhcmVhcyBhcmUgZ2VuZXJhbGx5IHNpdHVhdGVkIG5lYXIgY29tbXVuaXR5IHNob3BwaW5n
+IGFyZWFzIG9yIGFsb25nIHNvbWUgb2YgdGhlIG1ham9yIGFydGVyaWFscyBvZiB0aGUgY2l0eS4g
+IE1peGVkIGRlbnNpdHkgYXJlYXMgc3Vycm91bmQgdGhlIGRvd250b3duIGFuZCBhcmUgbG9jYXRl
+ZCBpbiBzb21lIGFyZWFzIHBsYW5uZWQgZm9yIG5ldyBkZXZlbG9wbWVudC4gTG93ZXIgZGVuc2l0
+eSBhcmVhcyBpbiB0aGUgb2xkZXIgc2VjdGlvbiBvZiB0aGUgY2l0eSBjb25zaXN0IHByZWRvbWlu
+YW50bHkgb2Ygc2luZ2xlLWZhbWlseSBkZXRhY2hlZCBzdHJ1Y3R1cmVzLiAgTWFueSBvZiB0aGUg
+YXJlYXMgZGV2ZWxvcGVkIGluIHRoZSBjaXR5IGFuZCB0aGUgY291bnR5IG92ZXIgdGhlIGxhc3Qg
+dHdlbnR5IHllYXJzIGFyZSBjaGFyYWN0ZXJpemVkIGJ5IGEgbWl4dHVyZSBvZiBob3VzaW5nIHR5
+cGVzIHJhbmdpbmcgZnJvbSBzaW5nbGUtZmFtaWx5IGRldGFjaGVkIHRvIGNsdXN0ZXIgYW5kIHBh
+dGlvIGhvbWVzLCB0b3duaG91c2VzIGFuZCBhcGFydG1lbnRzLiAgVGhlIHZhcmlldHkgb2YgaG91
+c2luZyB0eXBlcyBpbiB0aGUgZGV2ZWxvcGluZyBhcmVhcyBvZiB0aGUgQm91bGRlciBWYWxsZXkg
+c2hhbGwgY29udGludWUgdG8gYmUgZW5jb3VyYWdlZCBkdXJpbmcgdGhlIHBsYW5uaW5nIHBlcmlv
+ZCBvZiB0aGUgQ29tcHJlaGVuc2l2ZSBQbGFuLg0KDQpSZXNpZGVudGlhbCBkZW5zaXRpZXMgdW5k
+ZXIgdGhlIENvbXByZWhlbnNpdmUgUGxhbiByYW5nZSBmcm9tIHZlcnkgbG93IGRlbnNpdHkgKHR3
+byB1bml0cyBvciBsZXNzIHBlciBhY3JlKTsgbG93IGRlbnNpdHkgKHR3byB0byBzaXggdW5pdHMg
+cGVyIGFjcmUpOyBtZWRpdW0gZGVuc2l0eSAoc2l4IHRvIDE0IHVuaXRzIHBlciBhY3JlKTsgdG8g
+aGlnaCBkZW5zaXR5IChtb3JlIHRoYW4gMTQgdW5pdHMgcGVyIGFjcmUpLiAgSXQgaXMgYXNzdW1l
+ZCB0aGF0IHZhcmlhdGlvbnMgb2YgdGhlIGRlbnNpdGllcyBvbiBhIHNtYWxsIGFyZWEgYmFzaXMg
+bWF5IG9jY3VyIHdpdGhpbiBhbnkgcGFydGljdWxhciBjbGFzc2lmaWNhdGlvbiwgYnV0IGFuIGF2
+ZXJhZ2UgZGVuc2l0eSB3aWxsIGJlIG1haW50YWluZWQgZm9yIHRoYXQgY2xhc3NpZmljYXRpb24u
+ICANCg0KQWRkaXRpb25hbGx5LCBpbiBvbGRlciBkb3dudG93biBuZWlnaGJvcmhvb2RzIHRoYXQg
+d2VyZSBkZXZlbG9wZWQgd2l0aCBzaW5nbGUgZmFtaWx5IGhvbWVzIGJ1dCBmb3IgYSB0aW1lIHdl
+cmUgem9uZWQgZm9yIGhpZ2hlciBkZW5zaXRpZXMsIGEgdmFyaWV0eSBvZiBob3VzaW5nIHR5cGVz
+IGFuZCBkZW5zaXRpZXMgYXJlIGZvdW5kIHdpdGhpbiBhIHNpbmdsZSBibG9jay4gVGhlIGNpdHkn
+cyBnb2FsIGlzIHRvIHByZXNlcnZlIGN1cnJlbnQgbmVpZ2hib3Job29kIGNoYXJhY3RlciBhbmQg
+bm90IGV4YWNlcmJhdGUgdHJhZmZpYyBhbmQgcGFya2luZyBwcm9ibGVtcy4gIEZldyBuZXcgaG91
+c2luZyB1bml0cyB3aWxsIGJlIGFkZGVkLiBUaGUgYXZlcmFnZSBkZW5zaXR5IGluIHRoZSBkb3du
+dG93biBuZWlnaGJvcmhvb2RzIGRlc2lnbmF0ZWQgbWl4ZWQgZGVuc2l0eSBpcyBpbiB0aGUgbWVk
+aXVtIGRlbnNpdHkgcmFuZ2UgKHNpeCB0byAxNCB1bml0cyBwZXIgYWNyZSkuIFRoZSBtaXhlZCBk
+ZW5zaXR5IGRlc2lnbmF0aW9uIGlzIGFsc28gYXBwbGllZCBpbiBzb21lIGFyZWFzIHBsYW5uZWQg
+Zm9yIG5ldyBkZXZlbG9wbWVudCB3aGVyZSB0aGUgZ29hbCBpcyB0byBwcm92aWRlIGEgc3Vic3Rh
+bnRpYWwgYW1vdW50IG9mIGFmZm9yZGFibGUgaG91c2luZyBpbiBtaXhlZCBkZW5zaXR5IG5laWdo
+Ym9yaG9vZHMgdGhhdCBoYXZlIGEgdmFyaWV0eSBvZiBob3VzaW5nIHR5cGVzIGFuZCBkZW5zaXRp
+ZXMuICBUaGUgZGVuc2l0eSBpbiB0aGUgbWl4ZWQgZGVuc2l0eSBkZXNpZ25hdGlvbiBpbiBuZXds
+eSBkZXZlbG9waW5nIGFyZWFzIGlzIGZyb20gc2l4IHRvIDE4IHVuaXRzIHBlciBhY3JlLiAgDQoN
+ClRoZSBtYW51ZmFjdHVyZWQgaG91c2luZyBkZXNpZ25hdGlvbiBpcyBhcHBsaWVkIHRvIGV4aXN0
+aW5nIG1vYmlsZSBob21lIHBhcmtzLiAgVGhlIGludGVudCBvZiB0aGUgZGVzaWduYXRpb24gaXMg
+dG8gcHJlc2VydmUgdGhlIGFmZm9yZGFibGUgaG91c2luZyBwcm92aWRlZCBieSB0aGUgZXhpc3Rp
+bmcgbW9iaWxlIGhvbWUgcGFya3MuDQoNCldpdGhpbiBjZXJ0YWluIHJlc2lkZW50aWFsIGFyZWFz
+LCB0aGVyZSBpcyBhbHNvIHRoZSBwb3RlbnRpYWwgZm9yIHNtYWxsIG5laWdoYm9yaG9vZCBzaG9w
+cGluZyBmYWNpbGl0aWVzIGFuZCByZWxhdGVkIG9mZmljZXMgYW5kIGdvdmVybm1lbnQgZmFjaWxp
+dGllcyB0aHJvdWdoIHNwZWNpYWwgcmV2aWV3LiAgQWx0aG91Z2ggdGhlIG5laWdoYm9yaG9vZCBt
+YXJrZXQgY2Vhc2VkIHRvIGZ1bmN0aW9uIGluIG1vc3QgYXJlYXMgb2YgdGhlIGNpdHkgZHVyaW5n
+IHRoZSBsYXRlIDE5NjAncyBhcyBzdXBlcm1hcmtldHMgdG9vayBvdmVyIHRoZSB0cmFkZSwNCm5l
+aWdoYm9yaG9vZCBtYXJrZXRzIG9yIG90aGVyIGNvbnZlbmllbmNlIGZhY2lsaXRpZXMgbWF5IGJl
+Y29tZSBtb3JlIHBvcHVsYXIgaW4gdGhlIGZ1dHVyZS4NCg0KTWl4ZWQgdXNlIC0gcmVzaWRlbnRp
+YWwgZGV2ZWxvcG1lbnQgbWF5IGJlIGRlZW1lZCBhcHByb3ByaWF0ZSBhbmQgd2lsbCBiZSBlbmNv
+dXJhZ2VkIGluIHNvbWUgcmVzaWRlbnRpYWwgYXJlYXMuIFRoZXNlIGFyZWFzIG1heSBiZSBkZXNp
+Z25hdGVkIE1peGVkIFVzZS1SZXNpZGVudGlhbC4gIEluIHRoZXNlIGFyZWFzLCByZXNpZGVudGlh
+bCBjaGFyYWN0ZXIgd2lsbCBwcmVkb21pbmF0ZSwgYWx0aG91Z2ggbmVpZ2hib3Job29kIHNjYWxl
+IHJldGFpbCBhbmQgcGVyc29uYWwgc2VydmljZSB1c2VzIHdpbGwgYmUgYWxsb3dlZC4gU3BlY2lm
+aWMgem9uaW5nIGFuZCBvdGhlciByZWd1bGF0aW9ucyB3aWxsIGJlIGFkb3B0ZWQgd2hpY2ggZGVm
+aW5lIHRoZSBkZXNpcmVkIGludGVuc2l0eSwgbWl4LCBsb2NhdGlvbiBhbmQgZGVzaWduIGNoYXJh
+Y3RlcmlzdGljcyBvZiB0aGVzZSB1c2VzLiANCg0KQnVzaW5lc3MgTGFuZCBVc2UgYW5kIEludGVu
+c2l0eQ0KV2l0aGluIHRoZSBCb3VsZGVyIFZhbGxleSB0aGVyZSBhcmUgc2l4IGNhdGVnb3JpZXMg
+b2YgYnVzaW5lc3MgbGFuZCB1c2UsIGJhc2VkIG9uIHRoZSBpbnRlbnNpdHkgb2YgZGV2ZWxvcG1l
+bnQgYW5kIHRoZSBwYXJ0aWN1bGFyIG5lZWRzIG9mIHRoZSByZXNpZGVudHMgbGl2aW5nIGluIGVh
+Y2ggc3ViY29tbXVuaXR5LiAgVGhlIGZpdmUgY2F0ZWdvcmllcyBhcmU6IFJlZ2lvbmFsLCBDb21t
+dW5pdHksIEdlbmVyYWwsIFRyYW5zaXRpb25hbCwgTWl4ZWQgVXNlIEJ1c2luZXNzIGFuZCBTZXJ2
+aWNlIENvbW1lcmNpYWwuIA0KDQpUaGUgdHdvIG1ham9yIFJlZ2lvbmFsIEJ1c2luZXNzIGFyZWFz
+IG9mIHRoZSBCb3VsZGVyIFZhbGxleSBhcmUgdGhlIERvd250b3duIGFuZCB0aGUgQ3Jvc3Nyb2Fk
+cyBBcmVhLiAgV2l0aGluIHRoZXNlIGFyZWFzIGFyZSBsb2NhdGVkIHRoZSBtYWpvciBzaG9wcGlu
+ZyBmYWNpbGl0aWVzLCBvZmZpY2VzLCBmaW5hbmNpYWwgaW5zdGl0dXRpb25zLCBhbmQgZ292ZXJu
+bWVudCBhbmQgY3VsdHVyYWwgZmFjaWxpdGllcyBzZXJ2aW5nIHRoZSBlbnRpcmUgQm91bGRlciBW
+YWxsZXkgYW5kIGFidXR0aW5nIGNvbW11bml0aWVzLiAgVGhlc2UgYXJlYXMgd2lsbCBjb250aW51
+ZSB0byBiZSByZWZ1cmJpc2hlZCBhbmQgdXBncmFkZWQgYW5kIHNoYWxsIHJlbWFpbiB0aGUgZG9t
+aW5hbnQgZm9jdXMgZm9yIG1ham9yIGJ1c2luZXNzIGFjdGl2aXRpZXMgaW4gdGhlIHJlZ2lvbi4N
+Cg0KQSBDb21tdW5pdHkgQnVzaW5lc3MgYXJlYSBpcyB0aGUgZm9jYWwgcG9pbnQgZm9yIGNvbW1l
+cmNpYWwgYWN0aXZpdHkgc2VydmluZyBhIHN1YmNvbW11bml0eSBvciBhIGNvbGxlY3Rpb24gb2Yg
+bmVpZ2hib3Job29kcy4gIFRoZXNlIGFyZSBkZXNpZ25hdGVkIHRvIHNlcnZlIHRoZSBkYWlseSBj
+b252ZW5pZW5jZSBzaG9wcGluZyBhbmQgc2VydmljZSBuZWVkcyBvZiB0aGUgbG9jYWwgcG9wdWxh
+dGlvbnMsIGFuZCBhcmUgZ2VuZXJhbGx5IHVuZGVyIDE1MCwwMDAgdG8gMjAwLDAwMCBzcXVhcmUg
+ZmVldCBpbiBhcmVhLiAgT2ZmaWNlcyB3aXRoaW4gdGhlIENvbW11bml0eSBCdXNpbmVzcyBhcmVh
+cyBzaG91bGQgYmUgb2ZmaWNlcyBkZXNpZ25hdGVkIHNwZWNpZmljYWxseSBmb3IgcmVzaWRlbnRz
+IG9mIHRoZSBzdWJjb21tdW5pdHkuICBXaGVyZSBmZWFzaWJsZSwgbXVsdGlwbGUgdXNlcyB3aWxs
+IGJlIGVuY291cmFnZWQgd2l0aGluIHRoZXNlIGNlbnRlcnMuDQoNClRoZSBHZW5lcmFsIEJ1c2lu
+ZXNzIGFyZWFzIGFyZSBsb2NhdGVkLCBmb3IgdGhlIG1vc3QgcGFydCwgYXQganVuY3Rpb25zIG9m
+IG1ham9yIGFydGVyaWFscyBvZiB0aGUgY2l0eSB3aGVyZSBpbnRlbnNpdmUgY29tbWVyY2lhbCB1
+c2VzIGhhdmUgYWxyZWFkeSBiZWVuIGFsbG93ZWQuICBUaGUgcGxhbiBwcm9wb3NlcyB0aGF0IHRo
+ZXNlIGFyZWFzIGNvbnRpbnVlIHRvIGJlIHVzZWQgd2l0aG91dCBleHBhbmRpbmcgdGhlIHN0cmlw
+IGNoYXJhY3RlciBhbHJlYWR5IGVzdGFibGlzaGVkLg0KVGhlIFRyYW5zaXRpb25hbCBCdXNpbmVz
+cyBkZXNpZ25hdGlvbiBpcyBzaG93biBhbG9uZyBjZXJ0YWluIG1ham9yIHN0cmVldHMgb2YgdGhl
+IHZhbGxleS4gIFRoZXNlIGFyZSBhcmVhcyB1c3VhbGx5IHpvbmVkIGZvciBsZXNzIGludGVuc2l2
+ZSBidXNpbmVzcyB1c2VzIHRoYW4gaW4gdGhlIEdlbmVyYWwgQnVzaW5lc3MgYXJlYXMsIGFuZCB0
+aGV5IG9mdGVuIHByb3ZpZGUgYSB0cmFuc2l0aW9uIHRvIHJlc2lkZW50aWFsIGFyZWFzLg0KDQpN
+aXhlZCB1c2UgLSBidXNpbmVzcyBkZXZlbG9wbWVudCBtYXkgYmUgZGVlbWVkIGFwcHJvcHJpYXRl
+IGFuZCB3aWxsIGJlIGVuY291cmFnZWQgaW4gc29tZSBidXNpbmVzcyBhcmVhcy4gVGhlc2UgYXJl
+YXMgbWF5IGJlIGRlc2lnbmF0ZWQgTWl4ZWQgVXNlLUJ1c2luZXNzLiAgQnVzaW5lc3MgY2hhcmFj
+dGVyIHdpbGwgcHJlZG9taW5hdGUsIGFsdGhvdWdoIGhvdXNpbmcgYW5kIHB1YmxpYyB1c2VzIHN1
+cHBvcnRpbmcgaG91c2luZyB3aWxsIGJlIGVuY291cmFnZWQgYW5kIG1heSBiZSByZXF1aXJlZC4g
+IFNwZWNpZmljIHpvbmluZyBhbmQgb3RoZXIgcmVndWxhdGlvbnMgd2lsbCBiZSBhZG9wdGVkIHdo
+aWNoIGRlZmluZSB0aGUgZGVzaXJlZCBpbnRlbnNpdHksIG1peCwgbG9jYXRpb24gYW5kIGRlc2ln
+biBjaGFyYWN0ZXJpc3RpY3Mgb2YgdGhlc2UgdXNlcy4gDQoNClNlcnZpY2UgQ29tbWVyY2lhbCBh
+cmVhcyBwcm92aWRlIGEgd2lkZSByYW5nZSBvZiBjb21tdW5pdHkgYW5kIHJlZ2lvbmFsIHJldGFp
+bCBhbmQgc2VydmljZSB1c2VzIGdlbmVyYWxseSBub3QgYWNjb21tb2RhdGVkIGluIGNvcmUgY29t
+bWVyY2lhbCBhcmVhcyBhbmQgd2hpY2ggZ2VuZXJhbGx5IHJlcXVpcmUgYXV0b21vdGl2ZSBhY2Nl
+c3MgZm9yIGN1c3RvbWVyIGNvbnZlbmllbmNlIGFuZCB0aGUgc2VydmljaW5nIG9mIHZlaGljbGVz
+LgkJCQkNCkluZHVzdHJpYWwgTGFuZCBVc2UgYW5kIEludGVuc2l0eQ0KVGhlIENvbXByZWhlbnNp
+dmUgUGxhbiBwcm9qZWN0cyBmaXZlIGNsYXNzaWZpY2F0aW9ucyBvZiBpbmR1c3RyaWFsIHVzZSB3
+aXRoaW4gdGhlIEJvdWxkZXIgVmFsbGV5OiBHZW5lcmFsLCBDb21tdW5pdHksIExpZ2h0LCBQZXJm
+b3JtYW5jZSBhbmQgTWl4ZWQgVXNlIEluZHVzdHJpYWwuDQoNClRoZSBHZW5lcmFsIEluZHVzdHJp
+YWwgY2xhc3NpZmljYXRpb24gaXMgc2hvd24gd2hlcmUgdGhlIG1vcmUgaW50ZW5zaXZlIGFuZCBo
+ZWF2eSBpbmR1c3RyaWVzIGFyZSBsb2NhdGVkIG9yIHBsYW5uZWQgd2l0aGluIHRoZSB2YWxsZXku
+IA0KDQpUaGUgQ29tbXVuaXR5IEluZHVzdHJpYWwgY2xhc3NpZmljYXRpb24gaXMgc2hvd24gZm9y
+IHRob3NlIGFyZWFzIHdoZXJlIHRoZSBwcmVkb21pbmFudCB1c2VzIHByb3ZpZGUgYSBkaXJlY3Qg
+c2VydmljZSB0byB0aGUgcGxhbm5pbmcgYXJlYS4gIFRoZXNlIHVzZXMgb2Z0ZW4gaGF2ZSBhbmNp
+bGxhcnkgY29tbWVyY2lhbCBhY3Rpdml0eSBhbmQgYXJlIGVzc2VudGlhbCB0byB0aGUgbGlmZSBv
+ZiB0aGUgQm91bGRlciBjb21tdW5pdHkuICBUaGVzZSB1c2VzIGluY2x1ZGUgc21hbGxlciBzY2Fs
+ZSBhdXRvLXJlbGF0ZWQgdXNlcywgc21hbGwgcHJpbnRpbmcgb3BlcmF0aW9ucywgYnVpbGRpbmcg
+Y29udHJhY3RvcnMsIGJ1aWxkaW5nIHN1cHBseSB3YXJlaG91c2VzLCBzbWFsbCBtYW51ZmFjdHVy
+aW5nIG9wZXJhdGlvbnMgYW5kIHNpbWlsYXIgdXNlcy4NCg0KVGhlIGluZHVzdHJpYWwgdXNlcyBj
+b25zaWRlcmVkIGFzICJMaWdodCIgYW5kICJQZXJmb3JtYW5jZSIgSW5kdXN0cmlhbCBvbiB0aGUg
+Q29tcHJlaGVuc2l2ZSBQbGFuIGFyZSBwcmltYXJpbHkgcmVzZWFyY2ggYW5kIGRldmVsb3BtZW50
+LCBsaWdodCBtYW51ZmFjdHVyaW5nLCBsYXJnZSBzY2FsZSBwcmludGluZyBhbmQgcHVibGlzaGlu
+ZywgZWxlY3Ryb25pY3MsIG9yIG90aGVyIGludGVuc2l2ZSBlbXBsb3ltZW50IHVzZXMuICBUaGVz
+ZSB1c2VzIGFyZSBjb25jZW50cmF0ZWQgcHJpbWFyaWx5IGluICJpbmR1c3RyaWFsIHBhcmtzIiBs
+b2NhdGVkIHdpdGhpbiB0aGUgR3VuYmFycmVsIEhpbGwgYXJlYSBhbG9uZyB0aGUgTG9uZ21vbnQg
+RGlhZ29uYWwsIGFuZCBhbG9uZyBBcmFwYWhvZSBBdmVudWUgYmV0d2VlbiAzM3JkIGFuZCA1NXRo
+IHN0cmVldHMuICBQZXJmb3JtYW5jZSBJbmR1c3RyaWFsIHVzZXMgcmVxdWlyZSBoaWdoLXF1YWxp
+dHkgc2l0ZSBwbGFucyBhbmQgbXVzdCBtZWV0IHBlcmZvcm1hbmNlIGNyaXRlcmlhIGZvciBob3cg
+b24tc2l0ZSBhbmQgb2ZmLXNpdGUgaW1wYWN0cyBhcmUgaGFuZGxlZC4NCg0KTWl4ZWQgdXNlLWlu
+ZHVzdHJpYWwgZGV2ZWxvcG1lbnQgbWF5IGJlIGRlZW1lZCBhcHByb3ByaWF0ZSBhbmQgd2lsbCBi
+ZSBlbmNvdXJhZ2VkIGluIHNvbWUgaW5kdXN0cmlhbCBhcmVhcyB0aHJvdWdoIHRoZSBwcm9jZXNz
+IG9mIE1ham9yIFNpdGUgUmV2aWV3LCBzdWJjb21tdW5pdHkgcGxhbm5pbmcsIG9yIGFyZWEgcGxh
+bm5pbmcuIEluZHVzdHJpYWwgdXNlcyB3aWxsIHByZWRvbWluYXRlLiBIb3VzaW5nIGNvbXBhdGli
+bGUgd2l0aCBhbmQgYXBwcm9wcmlhdGUgdG8gdGhlIGluZHVzdHJpYWwgY2hhcmFjdGVyIHdpbGwg
+YmUgZW5jb3VyYWdlZCBhbmQgbWF5IGJlIHJlcXVpcmVkLiBOZWlnaGJvcmhvb2QgcmV0YWlsIGFu
+ZCBzZXJ2aWNlIHVzZXMgbWF5IGJlIGFsbG93ZWQuICBTcGVjaWZpYyB6b25pbmcgYW5kIG90aGVy
+IHJlZ3VsYXRpb25zIHdpbGwgYmUgYWRvcHRlZCB3aGljaCBkZWZpbmUgdGhlIGRlc2lyZWQgaW50
+ZW5zaXR5LCBtaXgsIGxvY2F0aW9uIGFuZCBkZXNpZ24gY2hhcmFjdGVyaXN0aWNzIG9mIHRoZXNl
+IHVzZXMuDQoNClB1YmxpYy9TZW1pLVB1YmxpYyBMYW5kIFVzZSBEZXNpZ25hdGlvbnMNClB1Ymxp
+Yy9TZW1pLVB1YmxpYyBsYW5kIHVzZSBkZXNpZ25hdGlvbnMgZW5jb21wYXNzIGEgd2lkZSByYW5n
+ZSBvZiBwdWJsaWMgYW5kIHByaXZhdGUgbm9uLXByb2ZpdCB1c2VzIHRoYXQgcHJvdmlkZSBhIGNv
+bW11bml0eSBzZXJ2aWNlLiAgVGhpcyBjYXRlZ29yeSBpbmNsdWRlcyBtdW5pY2lwYWwgYW5kIHB1
+YmxpYyB1dGlsaXR5IHNlcnZpY2VzIHN1Y2ggYXMgdGhlIG11bmljaXBhbCBhaXJwb3J0LCB3YXRl
+ciByZXNlcnZvaXJzLCBhbmQgd2F0ZXIgYW5kIHdhc3Rld2F0ZXIgdHJlYXRtZW50IHBsYW50cy4g
+IFB1YmxpYy9TZW1pLVB1YmxpYyBhbHNvIGluY2x1ZGVzOiBlZHVjYXRpb25hbCBmYWNpbGl0aWVz
+LCBpbmNsdWRpbmcgcHVibGljIGFuZCBwcml2YXRlIHNjaG9vbHMgYW5kIHRoZSB1bml2ZXJzaXR5
+OyBnb3Zlcm5tZW50IG9mZmljZXMgc3VjaCBhcyBjaXR5IGFuZCBjb3VudHkgYnVpbGRpbmdzLCBs
+aWJyYXJpZXMsIGFuZCB0aGUgamFpbDsgZ292ZXJubWVudCBsYWJvcmF0b3JpZXM7IGFuZCBub24t
+cHJvZml0IGZhY2lsaXRpZXMgc3VjaCBhcyBjZW1ldGVyaWVzLCBjaHVyY2hlcywgaG9zcGl0YWxz
+LCByZXRpcmVtZW50IGNvbXBsZXhlcyBhbmQgbWF5IGluY2x1ZGUgb3RoZXIgdXNlcyBhcyBhbGxv
+d2VkIGJ5IHpvbmluZy4NCg0KQWdyaWN1bHR1cmUgTGFuZCBVc2UgRGVzaWduYXRpb24NCkFuIEFn
+cmljdWx0dXJlIGxhbmQgdXNlIGRlc2lnbmF0aW9uIGlkZW50aWZpZXMgbGFuZCBpbiB0aGUgU2Vy
+dmljZSBBcmVhIHRoYXQgaXMgcGxhbm5lZCB0byByZW1haW4gaW4gYWdyaWN1bHR1cmFsIHVzZS4g
+IFVzZXMgdGhhdCBhcmUgYXV4aWxpYXJ5IHRvIGFncmljdWx0dXJlLCBzdWNoIGFzIGEgaG9tZSwg
+YSBiYXJuIGFuZCBvdXRidWlsZGluZ3MgYW5kIHRoZSBpbmNpZGVudGFsIHNhbGVzIG9mIGZhcm0g
+b3IgaG9ydGljdWx0dXJhbCBwcm9kdWN0cyBhcmUgZXhwZWN0ZWQgb24gbGFuZCB3aXRoIHRoaXMg
+ZGVzaWduYXRpb24uIEdpdmVuIHRoZSB1cmJhbiBuYXR1cmUgb2YgQm91bGRlciwgdGhlIGRlc2ln
+bmF0aW9uIHdpbGwgYmUgdXNlZCByYXJlbHkuDQoNCkVudmlyb25tZW50YWwgUHJlc2VydmF0aW9u
+DQpUaGUgRW52aXJvbm1lbnRhbCBQcmVzZXJ2YXRpb24gZGVzaWduYXRpb24gaW5jbHVkZXMgcHJp
+dmF0ZSBsYW5kcyBpbiBBcmVhcyBJIGFuZCBJSSB3aXRoIGVudmlyb25tZW50YWwgdmFsdWVzIHdo
+aWNoIHRoZSBjaXR5IGFuZCBjb3VudHkgd291bGQgbGlrZSB0byBwcmVzZXJ2ZSB0aHJvdWdoIGEg
+dmFyaWV0eSBvZiBwcmVzZXJ2YXRpb24gbWV0aG9kcyBpbmNsdWRpbmcgYnV0IG5vdCBsaW1pdGVk
+IHRvIGludGVyZ292ZXJubWVudGFsIGFncmVlbWVudHMsIGRlZGljYXRpb25zLCBkZXZlbG9wbWVu
+dCByZXN0cmljdGlvbnMsIHJlem9uaW5ncywgYWNxdWlzaXRpb25zLCBhbmQgZGVuc2l0eSB0cmFu
+c2ZlcnMuDQoNCk5hdHVyYWwgRWNvc3lzdGVtIE92ZXJsYXkNCkluIG9yZGVyIHRvIGVuY291cmFn
+ZSBlbnZpcm9ubWVudGFsIHByZXNlcnZhdGlvbiwgYSBOYXR1cmFsIEVjb3N5c3RlbSBvdmVybGF5
+IGlzIGFwcGxpZWQgb3ZlciBDb21wcmVoZW5zaXZlIFBsYW4gTGFuZCBVc2UgRGVzaWduYXRpb25z
+IHRocm91Z2hvdXQgdGhlIEJvdWxkZXIgVmFsbGV5IFBsYW5uaW5nIEFyZWEuIFRoZSBvdmVybGF5
+IGRlbm90ZXMgbGFuZCB3aXRoIG5hdHVyYWwgcmVzb3VyY2UgaW1wb3J0YW5jZS4gQSBOYXR1cmFs
+IEVjb3N5c3RlbXMgb3ZlcmxheSB3aWxsIG5vdCBuZWNlc3NhcmlseSBwcmVjbHVkZSBkZXZlbG9w
+bWVudCBvciBodW1hbiB1c2Ugb2YgYSBwYXJ0aWN1bGFyIGFyZWEsIGJ1dCB3aWxsIHNlcnZlIHRv
+IGlkZW50aWZ5IGNlcnRhaW4gZW52aXJvbm1lbnRhbCBpc3N1ZXMgaW4gdGhlIGFyZWEuICBUaGUg
+b3ZlcmxheSB3aWxsIHNlcnZlIHRvIGd1aWRlIHRoZSBjaXR5IGFuZCB0aGUgY291bnR5IGluIGRl
+Y2lzaW9ucyBhYm91dCBhbm5leGF0aW9ucywgcmV6b25pbmdzLCBhY3F1aXNpdGlvbnMsIGRlbnNp
+dHkgdHJhbnNmZXJzLCBkZXZlbG9wbWVudCByZXZpZXcgYW5kIG90aGVyIHBsYW5uaW5nIHByb2Nl
+c3Nlcy4gICANCg0KMi4gT1BFTiBTUEFDRSBBTkQgUEFSS1MNCg0KT3BlbiBTcGFjZQ0KT3BlbiBT
+cGFjZSBkZXNpZ25hdGlvbnMgb24gdGhlIEJWQ1AgTWFwIGluY2x1ZGUgdGhlIGZvbGxvd2luZyB0
+aHJlZSBjYXRlZ29yaWVzIG9mIGxhbmQ6DQoxLiBPcGVuIFNwYWNlIC0gQWNxdWlyZWQ6ICBMYW5k
+IGFscmVhZHkgYWNxdWlyZWQgYnkgdGhlIGNpdHkgb3IgQm91bGRlciBDb3VudHkgZm9yIG9wZW4g
+c3BhY2UgcHVycG9zZXM7DQoyLiBPcGVuIFNwYWNlIC0gRGV2ZWxvcG1lbnQgUmVzdHJpY3Rpb25z
+OiBQcml2YXRlbHkgb3duZWQgbGFuZCB3aXRoIGNvbnNlcnZhdGlvbiBlYXNlbWVudHMgb3Igb3Ro
+ZXIgZGV2ZWxvcG1lbnQgcmVzdHJpY3Rpb25zOyBhbmQNCjMuIE9wZW4gU3BhY2UgLSBPdGhlcjog
+IE90aGVyIHB1YmxpYyBhbmQgcHJpdmF0ZSBsYW5kIGRlc2lnbmF0ZWQgcHJpb3IgdG8gMTk4MSB3
+aGljaCB0aGUgY2l0eSBhbmQgY291bnR5IHdvdWxkIGxpa2UgdG8gcHJlc2VydmUgdGhyb3VnaCB2
+YXJpb3VzIHByZXNlcnZhdGlvbiBtZXRob2RzIGluY2x1ZGluZyBidXQgbm90IGxpbWl0ZWQgdG8g
+aW50ZXJnb3Zlcm5tZW50YWwgYWdyZWVtZW50cywgZGVkaWNhdGlvbnMsIG9yIGFjcXVpc2l0aW9u
+cy4NCg0KT3BlbiBTcGFjZSBkZXNpZ25hdGlvbnMgYXJlIG5vdCBpbnRlbmRlZCB0byBsaW1pdCBh
+Y3F1aXNpdGlvbiwgYnV0IHRvIGJlIGluZGljYXRpdmUgb2YgdGhlIGJyb2FkIGdvYWxzIG9mIHRo
+ZSBwcm9ncmFtLiAgT3RoZXIgcHJvcGVydHkgd2hpY2ggbWVldHMgT3BlbiBTcGFjZSBwdXJwb3Nl
+cyBhbmQgZnVuY3Rpb25zIHNob3VsZCBiZSBjb25zaWRlcmVkIGFuZCBtYXkgYmUgYWNxdWlyZWQu
+ICBPcGVuIFNwYWNlIGRlc2lnbmF0aW9ucyBpbmRpY2F0ZSB0aGF0IHRoZSBsb25nLXRlcm0gdXNl
+IG9mIHRoZSBsYW5kIGlzIHBsYW5uZWQgdG8gc2VydmUgb25lIG9yIG1vcmUgb3BlbiBzcGFjZSBm
+dW5jdGlvbnMuICBIb3dldmVyLCBPcGVuIFNwYWNlIGRlc2lnbmF0aW9ucyBtYXkgbm90IHJlZmxl
+Y3QgdGhlIGN1cnJlbnQgdXNlIG9mIHRoZSBsYW5kIHdoaWxlIGluIHByaXZhdGUgb3duZXJzaGlw
+Lg0KDQpVcmJhbiBhbmQgT3RoZXIgUGFya3MNClVyYmFuIGFuZCBPdGhlciBQYXJrcyBpbmNsdWRl
+cyBwdWJsaWMgbGFuZHMgdXNlZCBmb3IgYSB2YXJpZXR5IG9mIGFjdGl2ZSBhbmQgcGFzc2l2ZSBy
+ZWNyZWF0aW9uYWwgcHVycG9zZXMuIFVyYmFuIHBhcmtzIHByb3ZpZGVkIGJ5IHRoZSBjaXR5IGlu
+Y2x1ZGUgcG9ja2V0IHBhcmtzLCBuZWlnaGJvcmhvb2QgcGFya3MsIGNvbW11bml0eSBwYXJrcyBh
+bmQgY2l0eSBwYXJrcyBhcyBkZWZpbmVkIGluIHRoZSBQYXJrcyBhbmQgUmVjcmVhdGlvbiBNYXN0
+ZXIgUGxhbi4gVGhlIHNwZWNpZmljIGNoYXJhY3RlcmlzdGljcyBvZiBlYWNoIHBhcmsgZGVwZW5k
+IG9uIHRoZSB0eXBlIG9mIHBhcmssIHNpemUsIHRvcG9ncmFwaHkgYW5kIG5laWdoYm9yaG9vZCBw
+cmVmZXJlbmNlcy4gIE5laWdoYm9yaG9vZCBwYXJrcyB0eXBpY2FsbHkgcHJvdmlkZSBhIGNoaWxk
+cmVuJ3MgcGxheWdyb3VuZCwgcGljbmljIGZhY2lsaXRpZXMsIGJlbmNoZXMsIHdhbGt3YXlzLCBs
+YW5kc2NhcGVkIGFyZWFzIGFuZCBtdWx0aS11c2Ugb3BlbiBncmFzcyBhcmVhcy4gT3RoZXIgcGFy
+ayB1c2VzIG1heSBpbmNsdWRlIHJlY3JlYXRpb25hbCBmYWNpbGl0aWVzIHN1Y2ggYXMgYmFza2V0
+YmFsbCBvciB0ZW5uaXMgY291cnRzLCBjb21tdW5pdHkgZ2FyZGVucywgYW5kIG5hdHVyYWwgYXJl
+YXMuICBUaGVyZSBhcmUgdGhyZWUgY29tbXVuaXR5IHBhcmsgc2l0ZXMgKEhhcmxvdyBQbGF0dHMs
+IEVhc3QgQm91bGRlciBhbmQgRm9vdGhpbGxzKSB3aGljaCBhcmUgZnVsbHkgb3IgcGFydGlhbGx5
+IGRldmVsb3BlZC4gIExhcmdlIG11bHRpLXVzZSBjaXR5IHBhcmtzIGFyZSBwbGFubmVkIGZvciB0
+d28gbG9jYXRpb25zOiAxKSB0aGUgVmFsbW9udCBQYXJrIHNpdGUsIHdoZXJlIGRldmVsb3BtZW50
+IHdpbGwgYmVnaW4gaW4gMjAwMSwgYW5kOyAyKSAgdGhlIEFyZWEgSUlJIC0gUGxhbm5pbmcgUmVz
+ZXJ2ZSBzaXRlLCB3aGljaCB3aWxsIGJlIGhlbGQgdG8gbWVldCBmdXR1cmUgcmVjcmVhdGlvbmFs
+IG5lZWRzLiBUaGUgQm91bGRlciBSZXNlcnZvaXIgaXMgYSByZWdpb25hbCBwYXJrIHdoaWNoIHBy
+b3ZpZGVzIG9wcG9ydHVuaXRpZXMgZm9yIGZpc2hpbmcsIHN3aW1taW5nLCBib2F0aW5nLCBwaWNu
+aWNraW5nLCBldGMuIE90aGVyIHB1YmxpYyByZWNyZWF0aW9uYWwgZmFjaWxpdGllcywgaW5jbHVk
+aW5nIGNpdHkgcmVjcmVhdGlvbiBjZW50ZXJzLCBhIGdvbGYgY291cnNlLCBzd2ltbWluZyBwb29s
+cywgYmFsbGZpZWxkcywgYW5kIHRoZSBFbGRvcmFkbyBDYW55b24gU3RhdGUgUGFyayBhcmUgYWxz
+byBpbmNsdWRlZCBpbiB0aGlzIGNhdGVnb3J5Lg0KPC9wdXJwb3NlPg0KICAgICAgPHN1cHBsaW5m
+PjEwLTMxLTAzIFVwZGF0ZWQgd2l0aCBtaW5vciByZWN0aWZpY2F0aW9uIHRvIHBhcmNlbHMgaW4g
+dmFsbW9udCBpbmR1c3RyaWFsIHBhcmsgYXJlYQ0KNC0yLTA0IFVwZGF0ZWQgd2l0aCBsYW5kIHVz
+ZSBjaGFuZ2Ugb2YgT1MtMCB0byBWTFIgcGVyIG9yZGluYW5jZSA3MzM5Lg0KNi0wNCB1cGRhdGVk
+IHdpdGggQlZDUCAwMy8wNCB5ZWFybHkgcmV2aWV3IGNoYW5nZXMNCjEwLTI5LTA0IEFwcGxpZWQg
+bWFwIGNvcnJlY3Rpb24gdG8gV29uZGVybGFuZCBSZXNlcnZvaXIgYXJlYSByZW1vdmluZyBlcm9u
+aW91cyBPUy1PIGRlc2lnbmF0aW9ucyBmcm9tIHJlc2lkZW50aWFsIHBhcmNlbHMgdG8gdGhlIG5v
+cnRoIGFuZCBzb3V0aCBvZiB0aGUgb3BlbiBzcGFjZSBsYW5kIHdlc3Qgb2YgQnJvYWR3YXkNCjEt
+NS0wNSBDaGFuZ2VkIExJIHRvIEhSIGZvciAxNjY1IEV4cG9zaXRpb24gRHJpdmUgKG5vcnRoIHNp
+ZGUgb2YgQXJhcGFob2UgYmV0d2VlbiAzM3JkIGFuZCAzOHRoKS4NCjItMjQtMDUgQ29ycmVjdGVk
+IG9wZW4gc3BhY2UgZGVzaWduYWl0b25zIG9uIHRoZSB2YWxtb250IGJ1dHRlIHByb3BlcnR5DQo1
+LTE2LTA2IEFwcGxpZWQgY2hhbmdlcyBmcm9tIGFwcHJvdmVkIDIwMDUgbWFqb3IgdXBkYXRlIHRv
+IHRoZSBCVkNQLiAgVGhpcyBpcyBub3cgdGhlIDIwMDUgQlZDUCBMYW5kIFVzZSBkYXRhc2V0Lg0K
+Ni0xMi0wNiBDb3JyZWN0ZWQgbWlzc2luZyBUQiBwb2x5Z29uIGF0IE4vRSBjb3JuZXIgb2YgMjh0
+aCBhbmQgQ29sb3JhZG8uICBPcmlnaW5hbCBtaXN0YWtlIGlkZW50aWZpZWQgZnJvbSB0cmFuc2Zl
+ciB0byBkaWdpdGFsIGZyb20gYW5hbG9nIGJlZm9yZSAxOTk3Lg0KNi0yMi0wNiBBZGRlZCBjaGFu
+Z2VzIGZyb20gR3VuYmFycmVsIEFyZWEgUGxhbi4gIEFwcHJvdmVkIDYtMjEtMDYgYnkgQm91bGRl
+ciBDb3VudHkgUGxhbm5pbmcgQ29tbWlzc2lvbi4gIFRoZXNlIGNoYW5nZXMgYXJlIGZyb20gdGhl
+IDMwLzA0IEJWQ1AgcGxhbi4NCjgtMzEtMDcgYWRkZWQgY2hhbmdlcyB0byA2NDUwIEd1bnBhcmsg
+RHIuDQoxMC05LTA4IG1vZGlmaWVkIFdhc2hpbmd0b24gU2Nob29sIHNpdGUgdG8gcmVmbGVjdCB0
+aGUgSFIvTFIgY2hhbmdlIHRvIHRoZSBQVUIgY2F0ZWdvcnkuDQozLTI0LTIwMDkgQXBwbGllZCBj
+aGFuZ2VzIGZyb20gZmluYWwgMjAwOCBtaWQgdGVybSByZXZpZXcgYW5kIGFsbCBhbm5leGF0aW9u
+cyBzaW5jZSBsYXN0IHVwZGF0ZSB0byB0aGUgZGF0YXNldCBpbmNsdWRpbmcgYnV0IG5vdCBsaW1p
+dGVkIHRvIDIwMjAgVXBsYW5kIC8gNDI0MCAxOXRoIEFubmV4YXRpb24uDQpNYXkgMjAwOSAtIGNv
+cnJlY3RlZCBhbGlnbm1lbnQgaXNzdWVzIGluIG5vcnRoIHdlc3QgcGFydCBvZiB0b3duIG5lYXIg
+RGFrb3RhIFJpZGdlIGFuZCBGb290aGlsbHMgUGFyayBhcyB3ZWxsIGFzIEhvbGlkYXkNCkFwcmls
+IDIwMTAgLSBjb3JyZWN0ZWQgdGhlIE1VQiBsaW5lIG5vcnRoIG9mIFlhcm1vdGggYW5kIGVhc3Qg
+b2YgQnJvYWR3YXkuICBNb3ZlZCBsaW5lIG5vcnRoIHRvIGluY2x1ZGUgcGFyY2VsIG9uIG4vZSBj
+b3JuZXIgIGFuZCBwYXJ0IG9mIHRoZSBlbmNsYXZlIHBhcmNlbCBqdXN0IHRvIHRoZSBlYXN0LiAg
+VGhpcyBpcyBhIG1hcCBjb3JyZWN0aW9uIGFuZCBub3QgYSBsYW5kIHVzZSBjaGFuZ2UuDQpPY3Rv
+YmVyIDIwMTAgLSBtb2RpZmllZCBUVkFQL0JvdWxkZXIgSnVuY3Rpb24gbGFuZCB1c2UgY2hhbmdl
+cyBhcHByb3ZlZCBpbiBBdWd1c3Q8L3N1cHBsaW5mPg0KICAgIDwvZGVzY3JpcHQ+DQogICAgPHRp
+bWVwZXJkPg0KICAgICAgPHRpbWVpbmZvPg0KICAgICAgICA8c25nZGF0ZT4NCiAgICAgICAgICA8
+Y2FsZGF0ZT42LTQtMDQ8L2NhbGRhdGU+DQogICAgICAgIDwvc25nZGF0ZT4NCiAgICAgIDwvdGlt
+ZWluZm8+DQogICAgICA8Y3VycmVudD5MYW5kIFVzZSBQZXIgMjAwMyBCVkNQIFVwZGF0ZTwvY3Vy
+cmVudD4NCiAgICA8L3RpbWVwZXJkPg0KICAgIDxzdGF0dXM+DQogICAgICA8cHJvZ3Jlc3M+Q29t
+cGxldGU8L3Byb2dyZXNzPg0KICAgICAgPHVwZGF0ZT5BdCBuZXh0IEJWQ1AgYW51YWwgdXBkYXRl
+PC91cGRhdGU+DQogICAgPC9zdGF0dXM+DQogICAgPGtleXdvcmRzPg0KICAgICAgPHRoZW1lPg0K
+ICAgICAgICA8dGhlbWVrZXk+TGFuZCBVc2U8L3RoZW1la2V5Pg0KICAgICAgICA8dGhlbWVrZXk+
+QlZDUDwvdGhlbWVrZXk+DQogICAgICAgIDx0aGVtZWtleT5zb2NpZXR5PC90aGVtZWtleT4NCiAg
+ICAgICAgPHRoZW1la2V5PmJvdW5kYXJpZXM8L3RoZW1la2V5Pg0KICAgICAgPC90aGVtZT4NCiAg
+ICA8L2tleXdvcmRzPg0KICAgIDxhY2Njb25zdD5SZWFkIG9ubHkgdG8gYWxsPC9hY2Njb25zdD4N
+CiAgICA8dXNlY29uc3Q+R3JhcGhpY2FsIFJlcHJlc2VudGF0aW9uIE9ubHk8L3VzZWNvbnN0Pg0K
+ICAgIDxwdGNvbnRhYz4NCiAgICAgIDxjbnRpbmZvPg0KICAgICAgICA8Y250b3JncD4NCiAgICAg
+ICAgICA8Y250b3JnPkNpdHkgb2YgQm91bGRlciAtIFBsYW5uaWduIGFuZCBEZXZlbG9wbWVudCBT
+ZXJ2aWNlczwvY250b3JnPg0KICAgICAgICAgIDxjbnRwZXI+UGxhbm5pbmcgRGF0YSBTdGV3YXJk
+PC9jbnRwZXI+DQogICAgICAgIDwvY250b3JncD4NCiAgICAgICAgPGNudHBvcz5QbGFubmluZyBE
+YXRhIFN0ZXdhcmQ8L2NudHBvcz4NCiAgICAgIDwvY250aW5mbz4NCiAgICA8L3B0Y29udGFjPg0K
+ICA8L2lkaW5mbz4NCiAgPGRhdGFxdWFsPg0KICAgIDxsaW5lYWdlPg0KICAgICAgPHByb2NzdGVw
+Pg0KICAgICAgICA8cHJvY2Rlc2M+RGF0YXNldCBjb3BpZWQuPC9wcm9jZGVzYz4NCiAgICAgICAg
+PHNyY3VzZWQ+U2VydmVyPWxpejsgU2VydmljZT1wb3J0OjUxNjE7IFVzZXI9cGxhbjsgVmVyc2lv
+bj1TREUuREVGQVVMVDwvc3JjdXNlZD4NCiAgICAgIDwvcHJvY3N0ZXA+DQogICAgICA8cHJvY3N0
+ZXA+DQogICAgICAgIDxwcm9jZGVzYz5EYXRhc2V0IGNvcGllZC48L3Byb2NkZXNjPg0KICAgICAg
+ICA8c3JjdXNlZD5TZXJ2ZXI9bGl6OyBTZXJ2aWNlPXBvcnQ6NTE1MTsgRGF0YWJhc2U9Z2lzcHJv
+ZDsgVXNlcj1wbGFudXNlcjsgVmVyc2lvbj1TREUuREVGQVVMVDwvc3JjdXNlZD4NCiAgICAgIDwv
+cHJvY3N0ZXA+DQogICAgICA8cHJvY3N0ZXA+DQogICAgICAgIDxwcm9jZGVzYz5EYXRhc2V0IGNv
+cGllZC48L3Byb2NkZXNjPg0KICAgICAgICA8c3JjdXNlZD5TZXJ2ZXI9bGl6OyBTZXJ2aWNlPXBv
+cnQ6NTE2MTsgVXNlcj1wbGFuOyBWZXJzaW9uPVNERS5ERUZBVUxUPC9zcmN1c2VkPg0KICAgICAg
+PC9wcm9jc3RlcD4NCiAgICAgIDxwcm9jc3RlcD4NCiAgICAgICAgPHByb2NkZXNjPkRhdGFzZXQg
+Y29waWVkLjwvcHJvY2Rlc2M+DQogICAgICAgIDxzcmN1c2VkPlNlcnZlcj1saXo7IFNlcnZpY2U9
+cG9ydDo1MTYxOyBVc2VyPXBsYW47IFZlcnNpb249U0RFLkRFRkFVTFQ8L3NyY3VzZWQ+DQogICAg
+ICA8L3Byb2NzdGVwPg0KICAgICAgPHByb2NzdGVwPg0KICAgICAgICA8cHJvY2Rlc2M+RGF0YXNl
+dCBjb3BpZWQuPC9wcm9jZGVzYz4NCiAgICAgICAgPHNyY3VzZWQ+U2VydmVyPWxpejsgU2Vydmlj
+ZT1wb3J0OjUxNTE7IERhdGFiYXNlPWdpc3Byb2Q7IFVzZXI9cGxhbnVzZXI7IFZlcnNpb249U0RF
+LkRFRkFVTFQ8L3NyY3VzZWQ+DQogICAgICA8L3Byb2NzdGVwPg0KICAgICAgPHByb2NzdGVwPg0K
+ICAgICAgICA8cHJvY2Rlc2M+RGF0YXNldCBjb3BpZWQuPC9wcm9jZGVzYz4NCiAgICAgICAgPHNy
+Y3VzZWQ+U2VydmVyPWxpejsgU2VydmljZT1wb3J0OjUxNjE7IFVzZXI9cGxhbjsgVmVyc2lvbj1T
+REUuREVGQVVMVDwvc3JjdXNlZD4NCiAgICAgIDwvcHJvY3N0ZXA+DQogICAgICA8cHJvY3N0ZXA+
+DQogICAgICAgIDxwcm9jZGVzYz5EYXRhc2V0IGNvcGllZC48L3Byb2NkZXNjPg0KICAgICAgICA8
+c3JjdXNlZD5TZXJ2ZXI9bGl6OyBTZXJ2aWNlPXBvcnQ6NTE1MTsgVXNlcj1wbGFuOyBWZXJzaW9u
+PVNERS5ERUZBVUxUPC9zcmN1c2VkPg0KICAgICAgPC9wcm9jc3RlcD4NCiAgICAgIDxwcm9jc3Rl
+cD4NCiAgICAgICAgPHByb2NkZXNjPkRhdGFzZXQgY29waWVkLjwvcHJvY2Rlc2M+DQogICAgICAg
+IDxzcmN1c2VkPlNlcnZlcj1saXo7IFNlcnZpY2U9cG9ydDo1MTYxOyBVc2VyPXBsYW47IFZlcnNp
+b249U0RFLkRFRkFVTFQ8L3NyY3VzZWQ+DQogICAgICA8L3Byb2NzdGVwPg0KICAgICAgPHByb2Nz
+dGVwPg0KICAgICAgICA8cHJvY2Rlc2M+TWV0YWRhdGEgaW1wb3J0ZWQuPC9wcm9jZGVzYz4NCiAg
+ICAgICAgPHNyY3VzZWQ+QzpcRE9DVU1FfjFcbWV0cnMxXExPQ0FMU34xXFRlbXBceG1sNUIudG1w
+PC9zcmN1c2VkPg0KICAgICAgPC9wcm9jc3RlcD4NCiAgICAgIDxwcm9jc3RlcD4NCiAgICAgICAg
+PHByb2NkZXNjPk1ldGFkYXRhIGltcG9ydGVkLjwvcHJvY2Rlc2M+DQogICAgICAgIDxzcmN1c2Vk
+PkM6XERPQ1VNRX4xXG1ldHJzMVxMT0NBTFN+MVxUZW1wXHhtbDYwLnRtcDwvc3JjdXNlZD4NCiAg
+ICAgIDwvcHJvY3N0ZXA+DQogICAgICA8cHJvY3N0ZXA+DQogICAgICAgIDxwcm9jZGVzYz5NZXRh
+ZGF0YSBpbXBvcnRlZC48L3Byb2NkZXNjPg0KICAgICAgICA8c3JjdXNlZD5DOlxET0NVTUV+MVxt
+ZXRyczFcTE9DQUxTfjFcVGVtcFx4bWw2OC50bXA8L3NyY3VzZWQ+DQogICAgICA8L3Byb2NzdGVw
+Pg0KICAgICAgPHByb2NzdGVwPg0KICAgICAgICA8cHJvY2Rlc2M+TWV0YWRhdGEgaW1wb3J0ZWQu
+PC9wcm9jZGVzYz4NCiAgICAgICAgPHNyY3VzZWQ+QzpcRE9DVU1FfjFcbWV0cnMxXExPQ0FMU34x
+XFRlbXBceG1sNkEudG1wPC9zcmN1c2VkPg0KICAgICAgPC9wcm9jc3RlcD4NCiAgICAgIDxwcm9j
+c3RlcD4NCiAgICAgICAgPHByb2NkZXNjPkRhdGFzZXQgY29waWVkLjwvcHJvY2Rlc2M+DQogICAg
+ICAgIDxzcmN1c2VkPlNlcnZlcj1zZGUxOyBTZXJ2aWNlPXBvcnQ6NTE1MTsgVXNlcj1naXM7IFZl
+cnNpb249U0RFLkRFRkFVTFQ8L3NyY3VzZWQ+DQogICAgICA8L3Byb2NzdGVwPg0KICAgICAgPHBy
+b2NzdGVwPg0KICAgICAgICA8cHJvY2Rlc2M+RGF0YXNldCBjb3BpZWQuPC9wcm9jZGVzYz4NCiAg
+ICAgICAgPHNyY3VzZWQ+U2VydmVyPXNkZTI7IFNlcnZpY2U9cG9ydDo1MTYxOyBVc2VyPXBsYW47
+IFZlcnNpb249U0RFLkRFRkFVTFQ8L3NyY3VzZWQ+DQogICAgICA8L3Byb2NzdGVwPg0KICAgICAg
+PHByb2NzdGVwPg0KICAgICAgICA8cHJvY2Rlc2M+RGF0YXNldCBjb3BpZWQuPC9wcm9jZGVzYz4N
+CiAgICAgICAgPHNyY3VzZWQ+U2VydmVyPXNkZTE7IFNlcnZpY2U9cG9ydDo1MTUxOyBVc2VyPWdp
+czsgVmVyc2lvbj1TREUuREVGQVVMVDwvc3JjdXNlZD4NCiAgICAgIDwvcHJvY3N0ZXA+DQogICAg
+ICA8cHJvY3N0ZXA+DQogICAgICAgIDxwcm9jZGVzYz5EYXRhc2V0IGNvcGllZC48L3Byb2NkZXNj
+Pg0KICAgICAgICA8c3JjdXNlZD5TZXJ2ZXI9c2RlMjsgU2VydmljZT1wb3J0OjUxNjE7IFVzZXI9
+cGxhbjsgVmVyc2lvbj1TREUuREVGQVVMVDwvc3JjdXNlZD4NCiAgICAgIDwvcHJvY3N0ZXA+DQog
+ICAgICA8cHJvY3N0ZXA+DQogICAgICAgIDxwcm9jZGVzYz5EYXRhc2V0IGNvcGllZC48L3Byb2Nk
+ZXNjPg0KICAgICAgICA8c3JjdXNlZD5TZXJ2ZXI9c2RlMjsgU2VydmljZT1wb3J0OjUxNjE7IFVz
+ZXI9cGxhbjsgVmVyc2lvbj1TREUuREVGQVVMVDwvc3JjdXNlZD4NCiAgICAgIDwvcHJvY3N0ZXA+
+DQogICAgICA8cHJvY3N0ZXA+DQogICAgICAgIDxwcm9jZGVzYz5EYXRhc2V0IGNvcGllZC48L3By
+b2NkZXNjPg0KICAgICAgICA8c3JjdXNlZD5TZXJ2ZXI9c2RlMTsgU2VydmljZT1wb3J0OjUxNTE7
+IFVzZXI9Z2lzOyBWZXJzaW9uPVNERS5ERUZBVUxUPC9zcmN1c2VkPg0KICAgICAgPC9wcm9jc3Rl
+cD4NCiAgICAgIDxwcm9jc3RlcD4NCiAgICAgICAgPHByb2NkZXNjPkRhdGFzZXQgY29waWVkLjwv
+cHJvY2Rlc2M+DQogICAgICAgIDxzcmN1c2VkPlNlcnZlcj1zZGUyOyBTZXJ2aWNlPXBvcnQ6NTE2
+MTsgVXNlcj1wbGFuOyBWZXJzaW9uPVNERS5ERUZBVUxUPC9zcmN1c2VkPg0KICAgICAgPC9wcm9j
+c3RlcD4NCiAgICAgIDxwcm9jc3RlcD4NCiAgICAgICAgPHByb2NkZXNjPkRhdGFzZXQgY29waWVk
+LjwvcHJvY2Rlc2M+DQogICAgICAgIDxzcmN1c2VkPlNlcnZlcj1zZGUxOyBTZXJ2aWNlPXBvcnQ6
+NTE1MTsgVXNlcj1wbGFuOyBWZXJzaW9uPVNERS5ERUZBVUxUPC9zcmN1c2VkPg0KICAgICAgPC9w
+cm9jc3RlcD4NCiAgICAgIDxwcm9jc3RlcD4NCiAgICAgICAgPHByb2NkZXNjPkRhdGFzZXQgY29w
+aWVkLjwvcHJvY2Rlc2M+DQogICAgICAgIDxzcmN1c2VkPlNlcnZlcj1zZGUyOyBTZXJ2aWNlPXBv
+cnQ6NTE2MTsgVXNlcj1wbGFuOyBWZXJzaW9uPVNERS5ERUZBVUxUPC9zcmN1c2VkPg0KICAgICAg
+PC9wcm9jc3RlcD4NCiAgICAgIDxwcm9jc3RlcD4NCiAgICAgICAgPHByb2NkZXNjPkRhdGFzZXQg
+Y29waWVkLjwvcHJvY2Rlc2M+DQogICAgICAgIDxzcmN1c2VkPlNlcnZlcj1zZGUxOyBTZXJ2aWNl
+PXBvcnQ6NTE1MTsgVXNlcj1naXM7IFZlcnNpb249U0RFLkRFRkFVTFQ8L3NyY3VzZWQ+DQogICAg
+ICAgIDxwcm9jZGF0ZT4yMDA4MTAwOTwvcHJvY2RhdGU+DQogICAgICAgIDxwcm9jdGltZT4wODA3
+MDQwMDwvcHJvY3RpbWU+DQogICAgICA8L3Byb2NzdGVwPg0KICAgICAgPHByb2NzdGVwPg0KICAg
+ICAgICA8cHJvY2Rlc2M+RGF0YXNldCBjb3BpZWQuPC9wcm9jZGVzYz4NCiAgICAgICAgPHNyY3Vz
+ZWQ+U2VydmVyPXNkZTI7IFNlcnZpY2U9cG9ydDo1MTYxOyBEYXRhYmFzZT1naXNjb3JlOyBVc2Vy
+PXBsYW47IFZlcnNpb249U0RFLkRFRkFVTFQ8L3NyY3VzZWQ+DQogICAgICAgIDxwcm9jZGF0ZT4y
+MDA4MTAwOTwvcHJvY2RhdGU+DQogICAgICAgIDxwcm9jdGltZT4wOTA5MDcwMDwvcHJvY3RpbWU+
+DQogICAgICA8L3Byb2NzdGVwPg0KICAgICAgPHByb2NzdGVwPg0KICAgICAgICA8cHJvY2Rlc2M+
+RGF0YXNldCBjb3BpZWQuPC9wcm9jZGVzYz4NCiAgICAgICAgPHNyY3VzZWQ+U2VydmVyPXNkZTE7
+IFNlcnZpY2U9cG9ydDo1MTUxOyBVc2VyPWdpczsgVmVyc2lvbj1TREUuREVGQVVMVDwvc3JjdXNl
+ZD4NCiAgICAgICAgPHByb2NkYXRlPjIwMDkwMzE2PC9wcm9jZGF0ZT4NCiAgICAgICAgPHByb2N0
+aW1lPjEzMDgyODAwPC9wcm9jdGltZT4NCiAgICAgIDwvcHJvY3N0ZXA+DQogICAgICA8cHJvY3N0
+ZXA+DQogICAgICAgIDxwcm9jZGVzYz5EYXRhc2V0IGNvcGllZC48L3Byb2NkZXNjPg0KICAgICAg
+ICA8c3JjdXNlZD5cXGdpc3JlcG50XGRhdGFsaW5rXEdpc2RhdGFcUGxhbm5pbmdcQlZDUFxCVkNQ
+XzIwMDhfVVBEQVRFLm1kYjwvc3JjdXNlZD4NCiAgICAgICAgPHByb2NkYXRlPjIwMDkwMzI2PC9w
+cm9jZGF0ZT4NCiAgICAgICAgPHByb2N0aW1lPjA3MTgzMzAwPC9wcm9jdGltZT4NCiAgICAgIDwv
+cHJvY3N0ZXA+DQogICAgPC9saW5lYWdlPg0KICA8L2RhdGFxdWFsPg0KICA8ZWFpbmZvPg0KICAg
+IDxkZXRhaWxlZCBOYW1lPSJQTEFOLkxBTkRVU0VfTUFTVEVSIj4NCiAgICAgIDxlbnR0eXA+DQog
+ICAgICAgIDxlbnR0eXBsIFN5bmM9IlRSVUUiPlBMQU4uTEFORFVTRV9NQVNURVI8L2VudHR5cGw+
+DQogICAgICAgIDxlbnR0eXB0IFN5bmM9IlRSVUUiPkZlYXR1cmUgQ2xhc3M8L2VudHR5cHQ+DQog
+ICAgICAgIDxlbnR0eXBjIFN5bmM9IlRSVUUiPjEyNTA8L2VudHR5cGM+DQogICAgICA8L2VudHR5
+cD4NCiAgICAgIDxhdHRyPg0KICAgICAgICA8YXR0cmxhYmw+T0JKRUNUSUQ8L2F0dHJsYWJsPg0K
+ICAgICAgICA8YXR0cmRlZj5JbnRlcm5hbCBmZWF0dXJlIG51bWJlci48L2F0dHJkZWY+DQogICAg
+ICAgIDxhdHRyZGVmcz5FU1JJPC9hdHRyZGVmcz4NCiAgICAgICAgPGF0dHJkb212Pg0KICAgICAg
+ICAgIDx1ZG9tPlNlcXVlbnRpYWwgdW5pcXVlIHdob2xlIG51bWJlcnMgdGhhdCBhcmUgYXV0b21h
+dGljYWxseSBnZW5lcmF0ZWQuPC91ZG9tPg0KICAgICAgICA8L2F0dHJkb212Pg0KICAgICAgICA8
+YXR0YWxpYXMgU3luYz0iVFJVRSI+T0JKRUNUSUQ8L2F0dGFsaWFzPg0KICAgICAgICA8YXR0cnR5
+cGUgU3luYz0iVFJVRSI+T0lEPC9hdHRydHlwZT4NCiAgICAgICAgPGF0dHdpZHRoIFN5bmM9IlRS
+VUUiPjQ8L2F0dHdpZHRoPg0KICAgICAgICA8YXRwcmVjaXMgU3luYz0iVFJVRSI+MTA8L2F0cHJl
+Y2lzPg0KICAgICAgICA8YXR0c2NhbGUgU3luYz0iVFJVRSI+MDwvYXR0c2NhbGU+DQogICAgICA8
+L2F0dHI+DQogICAgICA8YXR0cj4NCiAgICAgICAgPGF0dHJsYWJsPkxBTkRVU0U8L2F0dHJsYWJs
+Pg0KICAgICAgICA8YXR0cmRlZj5TZWUgdGhlIGRlc2NyaXB0aW9uIHVuZGVyICJwdXJwb3NlIjwv
+YXR0cmRlZj4NCiAgICAgICAgPGF0dGFsaWFzIFN5bmM9IlRSVUUiPkxBTkRVU0U8L2F0dGFsaWFz
+Pg0KICAgICAgICA8YXR0cnR5cGUgU3luYz0iVFJVRSI+U3RyaW5nPC9hdHRydHlwZT4NCiAgICAg
+ICAgPGF0dHdpZHRoIFN5bmM9IlRSVUUiPjI1NDwvYXR0d2lkdGg+DQogICAgICAgIDxhdHByZWNp
+cyBTeW5jPSJUUlVFIj4wPC9hdHByZWNpcz4NCiAgICAgICAgPGF0dHNjYWxlIFN5bmM9IlRSVUUi
+PjA8L2F0dHNjYWxlPg0KICAgICAgPC9hdHRyPg0KICAgICAgPGF0dHI+DQogICAgICAgIDxhdHRy
+bGFibD5MQU5EVVNFTkFNPC9hdHRybGFibD4NCiAgICAgICAgPGF0dHJkZWY+U2FtZSBhcyAibGFu
+ZHVzZSIgYnV0IHNwZWxsZWQgb3V0IGFzIGZ1bGwgd29yZHM8L2F0dHJkZWY+DQogICAgICAgIDxh
+dHRhbGlhcyBTeW5jPSJUUlVFIj5MQU5EVVNFTkFNPC9hdHRhbGlhcz4NCiAgICAgICAgPGF0dHJ0
+eXBlIFN5bmM9IlRSVUUiPlN0cmluZzwvYXR0cnR5cGU+DQogICAgICAgIDxhdHR3aWR0aCBTeW5j
+PSJUUlVFIj41MDwvYXR0d2lkdGg+DQogICAgICAgIDxhdHByZWNpcyBTeW5jPSJUUlVFIj4wPC9h
+dHByZWNpcz4NCiAgICAgICAgPGF0dHNjYWxlIFN5bmM9IlRSVUUiPjA8L2F0dHNjYWxlPg0KICAg
+ICAgPC9hdHRyPg0KICAgICAgPGF0dHI+DQogICAgICAgIDxhdHRybGFibD5MQU5EVVNFR1JPPC9h
+dHRybGFibD4NCiAgICAgICAgPGF0dHJkZWY+bGFuZCB1c2UgZ3JvdXBlZCBpbnRvIGdlbmVyYWwg
+Y2F0ZWdvcmllczwvYXR0cmRlZj4NCiAgICAgICAgPGF0dGFsaWFzIFN5bmM9IlRSVUUiPkxBTkRV
+U0VHUk88L2F0dGFsaWFzPg0KICAgICAgICA8YXR0cnR5cGUgU3luYz0iVFJVRSI+U3RyaW5nPC9h
+dHRydHlwZT4NCiAgICAgICAgPGF0dHdpZHRoIFN5bmM9IlRSVUUiPjUwPC9hdHR3aWR0aD4NCiAg
+ICAgICAgPGF0cHJlY2lzIFN5bmM9IlRSVUUiPjA8L2F0cHJlY2lzPg0KICAgICAgICA8YXR0c2Nh
+bGUgU3luYz0iVFJVRSI+MDwvYXR0c2NhbGU+DQogICAgICA8L2F0dHI+DQogICAgICA8YXR0cj4N
+CiAgICAgICAgPGF0dHJsYWJsPlNIQVBFPC9hdHRybGFibD4NCiAgICAgICAgPGF0dHJkZWY+RmVh
+dHVyZSBnZW9tZXRyeS48L2F0dHJkZWY+DQogICAgICAgIDxhdHRyZGVmcz5FU1JJPC9hdHRyZGVm
+cz4NCiAgICAgICAgPGF0dHJkb212Pg0KICAgICAgICAgIDx1ZG9tPkNvb3JkaW5hdGVzIGRlZmlu
+aW5nIHRoZSBmZWF0dXJlcy48L3Vkb20+DQogICAgICAgIDwvYXR0cmRvbXY+DQogICAgICAgIDxh
+dHRhbGlhcyBTeW5jPSJUUlVFIj5TaGFwZTwvYXR0YWxpYXM+DQogICAgICAgIDxhdHRydHlwZSBT
+eW5jPSJUUlVFIj5HZW9tZXRyeTwvYXR0cnR5cGU+DQogICAgICAgIDxhdHR3aWR0aCBTeW5jPSJU
+UlVFIj40PC9hdHR3aWR0aD4NCiAgICAgICAgPGF0cHJlY2lzIFN5bmM9IlRSVUUiPjA8L2F0cHJl
+Y2lzPg0KICAgICAgICA8YXR0c2NhbGUgU3luYz0iVFJVRSI+MDwvYXR0c2NhbGU+DQogICAgICA8
+L2F0dHI+DQogICAgICA8YXR0cj4NCiAgICAgICAgPGF0dHJsYWJsPkxBTkRVU0VHUk88L2F0dHJs
+YWJsPg0KICAgICAgICA8YXR0cmRlZj5MZW5ndGggb2YgZmVhdHVyZSBpbiBpbnRlcm5hbCB1bml0
+cy48L2F0dHJkZWY+DQogICAgICAgIDxhdHRyZGVmcz5FU1JJPC9hdHRyZGVmcz4NCiAgICAgICAg
+PGF0dHJkb212Pg0KICAgICAgICAgIDx1ZG9tPlBvc2l0aXZlIHJlYWwgbnVtYmVycyB0aGF0IGFy
+ZSBhdXRvbWF0aWNhbGx5IGdlbmVyYXRlZC48L3Vkb20+DQogICAgICAgIDwvYXR0cmRvbXY+DQog
+ICAgICAgIDxhdHRhbGlhcyBTeW5jPSJUUlVFIj5TSEFQRS5BUkVBPC9hdHRhbGlhcz4NCiAgICAg
+ICAgPGF0dHJ0eXBlIFN5bmM9IlRSVUUiPkRvdWJsZTwvYXR0cnR5cGU+DQogICAgICAgIDxhdHR3
+aWR0aCBTeW5jPSJUUlVFIj4wPC9hdHR3aWR0aD4NCiAgICAgICAgPGF0cHJlY2lzIFN5bmM9IlRS
+VUUiPjA8L2F0cHJlY2lzPg0KICAgICAgICA8YXR0c2NhbGUgU3luYz0iVFJVRSI+MDwvYXR0c2Nh
+bGU+DQogICAgICA8L2F0dHI+DQogICAgICA8YXR0cj4NCiAgICAgICAgPGF0dHJsYWJsPlNIQVBF
+PC9hdHRybGFibD4NCiAgICAgICAgPGF0dHJkZWY+RmVhdHVyZSBnZW9tZXRyeS48L2F0dHJkZWY+
+DQogICAgICAgIDxhdHRyZGVmcz5FU1JJPC9hdHRyZGVmcz4NCiAgICAgICAgPGF0dHJkb212Pg0K
+ICAgICAgICAgIDx1ZG9tPkNvb3JkaW5hdGVzIGRlZmluaW5nIHRoZSBmZWF0dXJlcy48L3Vkb20+
+DQogICAgICAgIDwvYXR0cmRvbXY+DQogICAgICAgIDxhdHRhbGlhcyBTeW5jPSJUUlVFIj5TSEFQ
+RS5MRU48L2F0dGFsaWFzPg0KICAgICAgICA8YXR0cnR5cGUgU3luYz0iVFJVRSI+RG91YmxlPC9h
+dHRydHlwZT4NCiAgICAgICAgPGF0dHdpZHRoIFN5bmM9IlRSVUUiPjA8L2F0dHdpZHRoPg0KICAg
+ICAgICA8YXRwcmVjaXMgU3luYz0iVFJVRSI+MDwvYXRwcmVjaXM+DQogICAgICAgIDxhdHRzY2Fs
+ZSBTeW5jPSJUUlVFIj4wPC9hdHRzY2FsZT4NCiAgICAgIDwvYXR0cj4NCiAgICA8L2RldGFpbGVk
+Pg0KICA8L2VhaW5mbz4NCiAgPGRpc3RpbmZvPg0KICAgIDxyZXNkZXNjPkRvd25sb2FkYWJsZSBE
+YXRhPC9yZXNkZXNjPg0KICA8L2Rpc3RpbmZvPg0KICA8bWV0YWluZm8+DQogICAgPG1ldGV4dG5z
+Pg0KICAgICAgPG9ubGluaz5odHRwOi8vd3d3LmVzcmkuY29tL21ldGFkYXRhL2Vzcmlwcm9mODAu
+aHRtbDwvb25saW5rPg0KICAgICAgPG1ldHByb2Y+RVNSSSBNZXRhZGF0YSBQcm9maWxlPC9tZXRw
+cm9mPg0KICAgIDwvbWV0ZXh0bnM+DQogICAgPG1ldGV4dG5zPg0KICAgICAgPG9ubGluaz5odHRw
+Oi8vd3d3LmVzcmkuY29tL21ldGFkYXRhL2Vzcmlwcm9mODAuaHRtbDwvb25saW5rPg0KICAgICAg
+PG1ldHByb2Y+RVNSSSBNZXRhZGF0YSBQcm9maWxlPC9tZXRwcm9mPg0KICAgIDwvbWV0ZXh0bnM+
+DQogICAgPG1ldGV4dG5zPg0KICAgICAgPG9ubGluaz5odHRwOi8vd3d3LmVzcmkuY29tL21ldGFk
+YXRhL2Vzcmlwcm9mODAuaHRtbDwvb25saW5rPg0KICAgICAgPG1ldHByb2Y+RVNSSSBNZXRhZGF0
+YSBQcm9maWxlPC9tZXRwcm9mPg0KICAgIDwvbWV0ZXh0bnM+DQogICAgPG1ldGV4dG5zPg0KICAg
+ICAgPG9ubGluaz5odHRwOi8vd3d3LmVzcmkuY29tL21ldGFkYXRhL2Vzcmlwcm9mODAuaHRtbDwv
+b25saW5rPg0KICAgICAgPG1ldHByb2Y+RVNSSSBNZXRhZGF0YSBQcm9maWxlPC9tZXRwcm9mPg0K
+ICAgIDwvbWV0ZXh0bnM+DQogICAgPG1ldGV4dG5zPg0KICAgICAgPG9ubGluaz5odHRwOi8vd3d3
+LmVzcmkuY29tL21ldGFkYXRhL2Vzcmlwcm9mODAuaHRtbDwvb25saW5rPg0KICAgICAgPG1ldHBy
+b2Y+RVNSSSBNZXRhZGF0YSBQcm9maWxlPC9tZXRwcm9mPg0KICAgIDwvbWV0ZXh0bnM+DQogIDwv
+bWV0YWluZm8+DQogIDxFc3JpPg0KICAgIDxNZXRhSUQ+e0RBRDI4MEU1LTkzNTMtNDMyRi1CMTE3
+LTczRkQ5QTIyNjExMH08L01ldGFJRD4NCiAgICA8Q3JlYURhdGU+MjAwOTA1MTM8L0NyZWFEYXRl
+Pg0KICAgIDxDcmVhVGltZT4xMTA3MTgwMDwvQ3JlYVRpbWU+DQogICAgPFN5bmNPbmNlPkZBTFNF
+PC9TeW5jT25jZT4NCiAgICA8U3luY0RhdGU+MjAxMTEwMTk8L1N5bmNEYXRlPg0KICAgIDxTeW5j
+VGltZT4wNjI4NTkwMDwvU3luY1RpbWU+DQogICAgPE1vZERhdGU+MjAxMTEwMTk8L01vZERhdGU+
+DQogICAgPE1vZFRpbWU+MDYyODU5MDA8L01vZFRpbWU+DQogIDwvRXNyaT4NCjwvbWV0YWRhdGE+</Data></Enclosure></Binary><mdHrLvName Sync="TRUE">dataset</mdHrLvName><refSysInfo><RefSystem><refSysID><identCode code="0" Sync="TRUE" value="0"/></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><geometObjs Name="Landuse"><geoObjTyp><GeoObjTypCd value="002" Sync="TRUE"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs><topLvl><TopoLevCd value="001" Sync="TRUE"></TopoLevCd></topLvl></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20160915</mdDateSt><mdMaint xmlns=""><maintFreq><MaintFreqCd value="009"/></maintFreq></mdMaint><mdChar><CharSetCd value="004"/></mdChar></metadata>
